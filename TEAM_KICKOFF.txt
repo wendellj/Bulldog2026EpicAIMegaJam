@@ -32,7 +32,9 @@ WHAT I NEED FROM YOU
 Reply to this message with:
 
 1. YOUR ROLE
-   What do you want to do? (Pick one primary, one backup)
+   Pick a PRIMARY role (your main focus) and optionally a SECONDARY role (your
+   backup when your primary work is done or blocked).
+
    - Audio (music, sound effects, voice)
    - 3D Art (models, textures, environments)
    - 2D Art (UI, icons, concept art)
@@ -40,6 +42,12 @@ Reply to this message with:
    - Programming (Blueprints - I'll teach you)
    - Writing (story, dialogue, lore)
    - Generalist (whatever needs doing)
+
+   That said: on a small team during a game jam, everyone does everything. We're
+   all testers. We all help find and fix bugs. We all hunt for assets when
+   someone's stuck. If you see a problem, you own it until it's solved or handed
+   off. "Not my job" is not in our vocabulary for the duration of this project.
+   Your role is your specialty, not your boundary.
 
 2. YOUR HOURS
    Be honest. Midterms? Other commitments? Say so now.
