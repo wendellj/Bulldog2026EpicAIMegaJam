@@ -1,0 +1,83 @@
+# GAME JAM PREPARATION GUIDE: NOV 2 - NOV 15, 2026
+
+## Part 1: Week of Nov 2–7 (Pipeline Setup, Testing & Team Space Schedule)
+
+### Team Working Style Note
+* **Wendell's Workflow:** Wendell has been working remotely for 15 years and is highly proficient, autonomous, and comfortable executing technical pipelines on remote teams.
+* **Co-Location Option:** If other team members prefer to work in the same physical space to collaborate or brainstorm, the following on-campus schedule has been mapped out based on Bellevue College facility availability for the week of November 2–7.
+
+### Day-by-Day Setup & Co-Location Checklist
+
+#### Monday, November 2, 2026 (Target Equipment Pickup Day 1)
+* [ ] Action: Go to the Library Tech Hub (Room D126) to pick up the high-spec quarterly developer laptop. Ask specifically for a machine capable of running Unreal Engine 5.
+* [ ] Action: Check your email for a response from the XR Lab (xrlab@bellevuecollege.edu) regarding your Meta Quest 3 off-campus loan approval.
+* [ ] On-Campus Co-Location Space Available:
+  * N250 Open Computer Lab: Open 7:00 AM – 9:30 PM (Great for high-end workstation access if needed).
+  * Library Tech Hub Area (Building D): Open 7:45 AM – 8:00 PM.
+
+#### Tuesday, November 3, 2026 (Target Equipment Pickup Day 2 & Initial Setup)
+* [ ] Action: Backup Target Day for Quest 3 pickup. If approved, visit the XR Lab (Room D126P) during drop-in hours to sign the waiver and grab the headset, controllers, and cables.
+* [ ] Action: Unbox both devices, update the Meta Quest 3 firmware to the latest version, and ensure developer mode is toggled on via your Meta Developer account.
+* [ ] On-Campus Co-Location Space Available:
+  * XR Lab Drop-In (D126P): Open 12:00 PM – 5:00 PM (Perfect time to troubleshoot hardware issues with lab staff).
+  * N250 Open Lab: Open 7:00 AM – 9:30 PM.
+
+#### Wednesday, November 4, 2026 (Unreal Engine 5 & Android SDK Integration)
+* [ ] Action: Install Unreal Engine 5 on the loaner laptop.
+* [ ] Action: Configure the Android SDK, NDK, and JDK paths within Unreal Engine required for Android/Oculus deployment.
+* [ ] Action: Establish an initial Git repository optimized for Unreal Engine (ensure an appropriate .gitignore and Git LFS are configured for large binary assets).
+* [ ] On-Campus Co-Location Space Available:
+  * XR Lab Drop-In (D126P): Open 12:00 PM – 5:00 PM.
+  * N250 Open Lab: Open 7:00 AM – 9:30 PM.
+
+#### Thursday, November 5, 2026 (First Build & Deployment Test)
+* [ ] Action: Create a blank VR template project in Unreal Engine.
+* [ ] Action: Package an Android APK build and deploy it directly onto the Meta Quest 3 via Android Debug Bridge (ADB) or Link to ensure the pipeline functions correctly.
+* [ ] Action: Test Model Context Protocol (MCP) tool integrations or agentic coding tools within your development ecosystem to verify AI pipelines.
+* [ ] On-Campus Co-Location Space Available:
+  * XR Lab Drop-In (D126P): Open 12:00 PM – 5:00 PM.
+  * N250 Open Lab: Open 7:00 AM – 9:30 PM.
+
+#### Friday, November 6, 2026 (Pipeline Validation & Final Dry Run)
+* [ ] Action: Confirm that all team members can pull from the Git repository, compile a build locally, and push changes without asset corruption or conflicts.
+* [ ] Action: Fully charge the Meta Quest 3 and laptop batteries. Pack all essential adapters, chargers, and Link cables.
+* [ ] On-Campus Co-Location Space Available:
+  * N250 Open Lab: Open 7:00 AM – 7:00 PM (Note early closure).
+  * Library Tech Hub Area: Open 7:45 AM – 5:00 PM.
+
+#### Saturday, November 7, 2026 (Rest & Final Team Sync)
+* [ ] Action: Run a final brief online sync with the team to lock down design scopes, asset pipelines, and roles before the jam starts next week.
+* [ ] On-Campus Co-Location Space Available:
+  * N250 Open Lab: Open 9:00 AM – 6:00 PM.
+  * Library Tech Hub Area: Open 11:00 AM – 5:00 PM.
+
+---
+
+## Part 2: Week of Nov 11–15 (2026 Epic AI MegaJam Operational Hours)
+
+Keep this daily matrix handy during the active jam window. Note earlier weekend facility closures to plan your physical co-location blocks accordingly.
+
+### Wednesday, November 11, 2026 (Jam Kickoff Day)
+* N250 Open Lab: 7:00 AM – 9:30 PM
+* Library Tech Hub: 7:45 AM – 8:00 PM
+* XR Lab (D126P): CLOSED (No drop-in hours)
+
+### Thursday, November 12, 2026 (Development Phase)
+* N250 Open Lab: 7:00 AM – 9:30 PM
+* Library Tech Hub: 7:45 AM – 8:00 PM
+* XR Lab (D126P): 12:00 PM – 5:00 PM (Last day for in-person XR specialist troubleshooting)
+
+### Friday, November 13, 2026 (Mid-Jam Push)
+* N250 Open Lab: 7:00 AM – 7:00 PM (Closes 2.5 hours earlier than weekdays)
+* Library Tech Hub: 7:45 AM – 5:00 PM (Closes 3 hours earlier than weekdays)
+* XR Lab (D126P): CLOSED
+
+### Saturday, November 14, 2026 (Polishing & Critical Crunch)
+* N250 Open Lab: 9:00 AM – 6:00 PM (Crucial: Closes early evening)
+* Library Tech Hub: 11:00 AM – 5:00 PM
+* XR Lab (D126P): CLOSED
+
+### Sunday, November 15, 2026 (Submission Day)
+* N250 Open Lab: 9:00 AM – 6:00 PM (Plan your final compile and upload buffer before evening!)
+* Library Tech Hub: 11:00 AM – 5:00 PM
+* XR Lab (D126P): CLOSED
