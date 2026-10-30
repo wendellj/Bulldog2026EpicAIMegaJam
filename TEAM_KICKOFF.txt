@@ -52,15 +52,26 @@ Reply to this message with:
 2. YOUR HOURS
    Be honest. Midterms? Other commitments? Say so now.
 
+   Important: Consistency beats cramming. Two hours per day Monday through Friday
+   gets far more done than ten hours on Friday. Daily progress compounds. Last-
+   minute crunches create bugs and burnout. Tell us what you can do EVERY DAY,
+   not just your total hours.
+
    PRE-JAM (Now through Nov 11):
-   - Hours per week you can commit: ___
-   - Best days/times: ___
+   - Hours per day you can commit: ___
+   - What time of day? (morning/afternoon/evening): ___
+   - Days you CAN'T work: ___
 
    DURING JAM (Nov 12-15, Thursday-Sunday):
-   - Thursday: ___ hours, what times?
-   - Friday: ___ hours, what times?
-   - Saturday: ___ hours, what times?
-   - Sunday: ___ hours, what times?
+   - Thursday Nov 12: ___ hours, what times?
+   - Friday Nov 13: ___ hours, what times?
+   - Saturday Nov 14: ___ hours, what times?
+   - Sunday Nov 15: ___ hours, what times?
+
+   MY COMMITMENT (Wendell):
+   - Pre-jam: 2 hours per day, afternoons, Mon-Fri
+   - During jam: 8am-8pm each day (Nov 12-15), with an hour midday for food/rest
+   - Available on Discord voice/screenshare throughout the jam
 
 3. YOUR SETUP
    - Do you have a computer at home, or lab-only?
@@ -84,12 +95,41 @@ GITHUB ISSUES (work tracking)
 Don't worry if you've never used GitHub. It's basically a shared to-do list. I'll
 show you how to check your tasks and mark them done.
 
-DAILY STANDUP
-- Every day during the jam, we sync up
-- Option A: Post in #standup channel (text) - what you did, what you're doing, any blockers
-- Option B: Quick video call (15 min max) - screenshare what you're working on
+DAILY STANDUP - 11:00 AM EVERY DAY
+----------------------------------
 
-Vote: Do you prefer text standup or video call? (We'll go with majority)
+Starting now and running through Sunday, Nov 15th, we have a daily standup at
+11am. This keeps everyone aligned and surfaces problems early.
+
+If you've never done a standup before, here's how it works:
+
+A standup is a quick team check-in. You answer three questions:
+
+   1. What did I do since last standup?
+   2. What am I working on next?
+   3. Am I stuck on anything? (blockers)
+
+That's it. Keep each answer to 1-2 sentences. The whole thing takes 10-15
+minutes for the team. It's called a "standup" because you should be able to
+do it standing up - if it's taking longer, we're doing it wrong.
+
+Examples:
+
+   "Yesterday I generated three background music tracks in Suno. Today I'm
+   working on UI sound effects. No blockers."
+
+   "I finished the main menu mockup. Today I'm starting on the pause screen.
+   I'm blocked on not knowing what buttons we need - can someone clarify?"
+
+   "I didn't get to work yesterday, midterm prep. Today I have 2 hours and
+   I'll catch up on the crystal model. No blockers."
+
+Being blocked is not a failure. Hiding that you're blocked IS a failure. If
+you're stuck, say so. That's the whole point - we fix it together.
+
+Format: We'll do standups via Discord voice chat. Camera optional, but screen-
+share when you have something to show. If you can't make 11am, post your update
+in #standup before the meeting.
 
 
 EXPECTATIONS
