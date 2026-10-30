@@ -127,6 +127,18 @@ Examples:
 Being blocked is not a failure. Hiding that you're blocked IS a failure. If
 you're stuck, say so. That's the whole point - we fix it together.
 
+THE TEN MINUTE RULE
+
+If you get stuck on something, follow this escalation:
+
+   0-10 min:   Try to solve it yourself. Google it. Re-read the docs.
+   10-20 min:  Ask the AI (Claude). Paste your error, explain what you tried.
+   20-30 min:  AI can't figure it out? Post in Discord. Someone might know.
+   30+ min:    No Discord answer? Tag me directly. I'll help you get unstuck.
+
+Do not sit stuck for an hour in silence. That's an hour of project time wasted.
+The ten minute rule keeps us moving.
+
 Format: We'll do standups via Discord voice chat. Camera optional, but screen-
 share when you have something to show. If you can't make 11am, post your update
 in #standup before the meeting.
