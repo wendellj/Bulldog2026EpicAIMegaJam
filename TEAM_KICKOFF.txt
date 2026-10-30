@@ -1,0 +1,113 @@
+BULLDOG MEGAJAM - TEAM KICKOFF
+===============================
+
+Hey team!
+
+We're entering the 2026 Epic AI MegaJam - a 4-day game jam from November 12-15
+where we build a VR game in Unreal Engine. There's $65,000 in prizes and grants
+up to $50,000 for standout entries.
+
+This is real. This goes on your portfolio. Winners get money and recognition
+from Epic Games.
+
+But here's the thing: game jams are intense. Four days, one game, ship or bust.
+We need to know who's in and what you can commit to.
+
+
+WHAT WE'RE BUILDING
+-------------------
+
+A Quest 3 VR experience using hand tracking. The core mechanic: you physically
+walk around your room, and when you get close to your play space boundary, the
+virtual world moves in that direction. Closer to edge = faster movement. It's
+like controlling a giant virtual space with your body position.
+
+We're still deciding what you DO in this space. Exploration? Puzzle solving?
+Survival? That's partly up to you.
+
+
+WHAT I NEED FROM YOU
+--------------------
+
+Reply to this message with:
+
+1. YOUR ROLE
+   What do you want to do? (Pick one primary, one backup)
+   - Audio (music, sound effects, voice)
+   - 3D Art (models, textures, environments)
+   - 2D Art (UI, icons, concept art)
+   - Design (gameplay, levels, balancing)
+   - Programming (Blueprints - I'll teach you)
+   - Writing (story, dialogue, lore)
+   - Generalist (whatever needs doing)
+
+2. YOUR HOURS
+   Be honest. Midterms? Other commitments? Say so now.
+
+   PRE-JAM (Now through Nov 11):
+   - Hours per week you can commit: ___
+   - Best days/times: ___
+
+   DURING JAM (Nov 12-15, Thursday-Sunday):
+   - Thursday: ___ hours, what times?
+   - Friday: ___ hours, what times?
+   - Saturday: ___ hours, what times?
+   - Sunday: ___ hours, what times?
+
+3. YOUR SETUP
+   - Do you have a computer at home, or lab-only?
+   - Do you have a Quest 3? (Not required, but helpful for testing)
+   - Any software experience? (Unreal, Blender, Photoshop, etc.)
+
+
+HOW WE'RE WORKING
+-----------------
+
+DISCORD (this server)
+- Main communication
+- Quick questions, sharing work, hype
+
+GITHUB ISSUES (work tracking)
+- Every task becomes a GitHub Issue
+- You get assigned issues, you close them when done
+- This is how we know what's happening without asking "hey what are you working on"
+- Link: https://github.com/wendellj/Bulldog2026EpicAIMegaJam/issues
+
+Don't worry if you've never used GitHub. It's basically a shared to-do list. I'll
+show you how to check your tasks and mark them done.
+
+DAILY STANDUP
+- Every day during the jam, we sync up
+- Option A: Post in #standup channel (text) - what you did, what you're doing, any blockers
+- Option B: Quick video call (15 min max) - screenshare what you're working on
+
+Vote: Do you prefer text standup or video call? (We'll go with majority)
+
+
+EXPECTATIONS
+------------
+
+- If you commit hours, show up for those hours
+- If something comes up, tell us BEFORE you disappear
+- Ask questions early - being stuck for 2 hours without asking wastes everyone's time
+- Done is better than perfect - we ship what we have at the deadline
+- No ego - if your work gets cut for scope, it's not personal
+
+
+THE GOAL
+--------
+
+Walk away with:
+- A shipped game on itch.io
+- Portfolio piece for job/school applications
+- Experience working on a real team under deadline
+- Maybe prize money
+
+This is the real deal. Are you in?
+
+Reply below with your commitment.
+
+- Wendell
+
+
+P.S. Read the manifesto: https://github.com/wendellj/Bulldog2026EpicAIMegaJam/blob/master/Manifesto.txt
