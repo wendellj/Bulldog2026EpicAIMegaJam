@@ -1,0 +1,71 @@
+# Step-by-Step Guide: Borrowing a Dev Laptop & Meta Quest 3 for the 2026 Epic AI MegaJam
+
+Use this checklist and template to secure a high-performance developer laptop and a Meta Quest 3 headset from Bellevue College. Because these items come from two different campus departments, you will need to follow two separate processes.
+
+---
+
+## Step 1: Claim Your High-Spec Laptop (First-Come, First-Served)
+
+The Library Tech Hub does not do short-term two-week loans. Instead, they offer Quarterly Laptop Loans. You can keep the machine for the entire quarter, which completely covers your game jam.
+
+* Location: Library Building D, Room D126 (Main Counter)
+* Hours: 
+  - Monday – Thursday: 7:45 AM – 8:00 PM
+  - Friday: 7:45 AM – 5:00 PM
+  - Saturday – Sunday: 11:00 AM – 5:00 PM
+* Contact: library@bellevuecollege.edu or techhub@bellevuecollege.edu
+* Action Plan: Go to the desk early next week (Monday, Nov 2nd or Tuesday, Nov 3rd). Walk up to the desk with your BC Student ID card. Crucial: Specifically ask for a "high-performance/developer laptop capable of running Unreal Engine 5." Do not accept a standard Chromebook or baseline notebook, as they cannot handle real-time 3D rendering or AI integrations.
+
+---
+
+## Step 2: Pitch Your Quest 3 Off-Campus Loan
+
+Because Meta Quest 3 headsets are heavily reserved for on-campus classes, taking one home for two weeks requires administrative approval. You must submit a formal request via email immediately.
+
+* Location: XR Lab – Library Building D, Room D126P
+* In-Person Drop-In Hours: Tuesday, Wednesday, Thursday: 12:00 PM – 5:00 PM
+* Contact: xrlab@bellevuecollege.edu
+
+### Copy & Paste Email Request Template
+
+Copy the text below, fill in your specific details, and send it to xrlab@bellevuecollege.edu. Make sure to CC your sponsoring instructor if you have one.
+
+```text
+Subject: Off-Campus Hardware Request: Meta Quest 3 for 2026 Epic AI MegaJam
+
+Hello XR Lab Team,
+
+My name is [Your Name], and I am a Bellevue College student (Student ID: [Your Student ID Number]) currently enrolled in [Name of your program, e.g., the Digital Media Arts program / Computer Science program]. 
+
+I am writing to formally request a temporary, two-week off-campus equipment loan for a Meta Quest 3 headset. I am participating in the upcoming 2026 Epic AI MegaJam (running from November 11–15, 2026) and will be developing a virtual/mixed reality project targeting the "Best Student Project" category using Unreal Engine 5 and AI/Model Context Protocol (MCP) integrations. 
+
+CRITICAL TIMING REQEST:
+I am requesting to pick up the hardware early next week, specifically on Monday, November 2nd or Tuesday, November 3rd. Securing the headset at this time is crucial so that I can configure my local developer laptop, establish the pipeline, and run end-to-end test builds. It is imperative that I verify my ability to successfully build and deploy projects to the device BEFORE the official game jam window begins on November 11.
+
+Here are the specific details of my request:
+* Equipment Requested: Meta Quest 3 headset, controllers, and charging cable.
+* Loan Duration: 2 Weeks (Early setup through event conclusion)
+* Target Pickup Date: November 2 or 3, 2026
+* Target Return Date: November 16, 2026
+* Game Jam Event Name: 2026 Epic AI MegaJam
+* Development Software: Unreal Engine 5 + AI Integrations
+
+Project Workflow & Asset Safety:
+The headset will be used strictly for deploying and testing local project builds compiled on my developer laptop. I will ensure the hardware is kept in a secure, smoke-free indoor environment and transported in a protective case.
+
+[Optional - If applicable]: My instructor, Professor [Instructor's Last Name], is aware of this project and can vouch for my academic use of the hardware. 
+
+Thank you for supporting student developers and mixed-reality creation on campus. Please let me know if I can drop by Room D126P during your open hours early next week to discuss this, sign an equipment waiver, and complete the early pickup.
+
+Best regards,
+
+[Your Name]
+[Your Phone Number]
+[Your BC Student Email Address]
+```
+
+---
+
+## What to Bring on Pickup Day
+1. Your physical Bellevue College Student ID Card (required by both departments).
+2. A sturdy backpack or padded bag to safely transport the hardware home.
