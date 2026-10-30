@@ -1,5 +1,38 @@
 # Bulldog 2026 Epic AI MegaJam - Git Setup
 
+## Working from a Lab Computer (USB Drive)
+
+If you're working from a campus lab, you'll need a **64GB USB drive** (minimum 32GB).
+
+**First time setup on USB:**
+
+1. Plug in your USB drive and note the drive letter (e.g., `E:`)
+2. Install Git Portable (no admin needed):
+   - Download from https://git-scm.com/download/win
+   - Choose "64-bit Git for Windows Portable"
+   - Extract to your USB drive (e.g., `E:\GitPortable`)
+3. Run `E:\GitPortable\git-bash.exe` to open Git Bash
+4. Clone the repo to your USB:
+   ```
+   cd /e
+   git lfs install
+   git clone https://github.com/wendellj/Bulldog2026EpicAIMegaJam.git
+   ```
+
+**Each lab session:**
+
+1. Plug in USB, open `E:\GitPortable\git-bash.exe`
+2. Navigate to project: `cd /e/Bulldog2026EpicAIMegaJam`
+3. Pull latest changes: `git pull`
+4. Open the `.uproject` file in Unreal (should be installed on lab machines)
+5. Before leaving: commit and push your changes
+
+**Important:** The Intermediate and DerivedDataCache folders are not saved to Git. They rebuild automatically when you open the project, which takes a few minutes on first launch.
+
+---
+
+## Installing on Your Own Computer
+
 ## 1. Install Git
 
 **Windows:**
