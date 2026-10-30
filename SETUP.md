@@ -71,6 +71,25 @@ git pull --rebase
 git push
 ```
 
+## Set Up Claude AI (Free)
+
+We're using Claude as our AI coding assistant.
+
+1. Go to https://claude.ai
+2. Click "Sign up"
+3. Use your @students.bellevuecollege.edu email
+4. Verify your email
+
+Free tier gives you limited messages per day. For heavier use during the jam, consider Claude Pro ($20/month).
+
+**Claude Code (CLI tool):**
+If you want Claude in your terminal:
+```
+npm install -g @anthropic-ai/claude-code
+claude
+```
+Requires Node.js 18+. Download from https://nodejs.org if needed.
+
 ## Need Help?
 
 Post in the Slack channel: **Bulldog2026EpicAIMegaJam**
