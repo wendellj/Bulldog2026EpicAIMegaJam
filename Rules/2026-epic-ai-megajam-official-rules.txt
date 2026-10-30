@@ -1,0 +1,591 @@
+--- PAGE 1 ---
+
+Page 1 of 14 
+2 0 2 6  E P I C  A I  M E G A J A M  
+O F F I C I A L  R U L E S  
+ 
+• NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE OR PAYMENT 
+OF ANY KIND DOES NOT IMPROVE YOUR CHANCES OF WINNING. 
+• VOID WHERE PROHIBITED, TAXED OR RESTRICTED BY LAW OR 
+INTERNATIONAL PUBLIC POLICY (WHICH INCLUDES IRAN, IRAQ, NORTH 
+KOREA, SOMALIA, SUDAN, SYRIA, AND THE REGIONS OF CRIMEA, DONETSK, 
+AND LUHANSK), WHERE REGISTRATION, FILING OR NOTICE 
+REQUIREMENTS MAY EXIST(WHICH INCLUDES ITALY), OR WHERE WE 
+CANNOT DISTRIBUTE PRIZES TO YOU BECAUSE OF LEGAL OR OTHER 
+CONSIDERATIONS (COLLECTIVELY, THE "RESTRICTED JURISDICTIONS"). 
+Please read these rules before entering the contest (the "Contest"). By entering and participating in 
+the Contest, you agree to be bound by these Official Rules and represent that you satisfy all of the 
+eligibility requirements set forth below. 
+Contest may only be entered in or from any jurisdiction located outside of the Restricted Jurisdictions 
+(the "Eligible Jurisdictions") and entries originating from any other jurisdiction are not eligible for 
+entry. 
+1. How to Enter. Online submissions only. Entrants ("Entrant(s)") can submit a playable product 
+created using Unreal Engine ("UE") or Unreal Editor for Fortnite ("UEFN") that relates to the 
+relevant theme provided by Epic Games (the "Contest Theme") to the Contest page of Epic 
+Games, Inc. and its affiliates ("Sponsor"), via https://itch.io/jam/2026-epic-ai-megajam. 
+The Contest Theme will be provided at the start of the Contest Period and made available via 
+Sponsor's Unreal Engine livestream (reachable via https://www.twitch.tv/unrealengine and 
+https://www.youtube.com/unrealengine), X (formerly Twitter) account (reachable via 
+https://x.com/UnrealEngine). 
+Submissions (a) must be created by a team of one (1) to five (5) Entrants; (b) in the case of UE 
+Submissions, must be packaged for Windows and playable on Windows 10 or 11, macOS, Android, 
+or iOS and, in the case of UEFN Submissions, must be submitted as a private version code of the 
+island, created within the contest period, that is playable in Fortnite; (c) include the full name and 
+email address of all Entrants on a submitting team, identifying one of them as the team owner (the 
+"Team Owner"); (d) may include sourced (non-original) assets, but the sourced assets must be noted 
+upon submission, subject to the Intellectual Property section; (e) include a video short (between 
+30-60 seconds) demonstrating recorded gameplay of the Submission ("Video"). All contact 
+information provided must be current, accurate, and valid; and (f) if submitting as a Student 
+Submission, all Entrants in a team must be Student Entrants, as outlined in the Eligibility section 
+(Classification of "Student Entrant"). See Submission Guidelines for additional requirements. 
+UE is available at: https://www.unrealengine.com/en-US/download. Eligible Entrants can access 
+UE and UEFN for free; however, each Entrant must have a registered Epic Games Account 
+("Epic Account"). Entrants are required to comply with all UE rules and regulations, including, 
+
+--- PAGE 2 ---
+
+Page 2 of 14 
+but not limited to, https://www.unrealengine.com/en-US/eula/unreal and 
+https://www.epicgames.com/site/en-US/tos (collectively, the "UE Rules"). 
+Unreal Editor for Fortnite is available at: https://store.epicgames.com/p/fortnite--uefn. Entrants 
+are required to comply with all Unreal Editor for Fortnite rules and regulations, including, but not 
+limited to, https://legal.epicgames.com/fortnite/developer-rules, https://www.fortnite.com/unreal-
+editor-for-fortnite-supplemental-terms, and https://www.epicgames.com/site/en-US/tos 
+(collectively, the "UEFN Rules"). 
+All terms and conditions of any Contest website also apply. Failure to comply may result in an 
+Entrant's disqualification. In the event of any conflict between these Official Rules, the UE Rules, 
+and the UEFN Rules, these Official Rules shall prevail. 
+2. Submissions. All entry information, Videos, and playable product shall be collectively referred to 
+herein as the "Submissions" or each as a "Submission." Submissions must comply with the 
+Guidelines and Restrictions defined below. 
+By entering, each entrant warrants and represents the following with respect to entrant's 
+Submission: (a) entrant is the sole and exclusive owner of the Submission and entrant has all 
+appropriate rights, powers and authority to grant Sponsor all licenses to the Submission as 
+set forth herein; (b) the Submission will not infringe on any rights of any third parties. 
+As a condition of entry, each entrant hereby grants to Sponsor a non-exclusive, perpetual (or 
+for the duration of protection of rights where perpetuity is void), irrevocable, worldwide, 
+transferable, sublicensable, and royalty free license to use, modify, reproduce, prepare 
+derivative works of, distribute, perform, and display the Submission in any and all media or 
+technology throughout the world, now known or later developed (but for Colombian, Greek, 
+and Spanish participants, in any medium or technology known at the time when such rights 
+were granted), but only in connection with publicizing the Contest. ENTRANTS WILL NOT 
+BE SPECIFICALLY PAID FOR THEIR SUBMISSIONS or for granting Sponsor any of 
+these rights. While Sponsor will seek to post the Submission in the form as provided at the 
+time of entry, each entrant agrees that due to technical limitations and internal standards, 
+such entrant's Submission may be altered from its original form and that Sponsor reserves 
+the right to modify the Submission in its sole discretion, including adding its logo or other 
+trademarks. Sponsor may post Submissions in any order or sequence, with or without 
+commentary, and may select an image to serve as a thumbnail in its sole discretion. 
+Limit one (1) Submission per team. Entrants are not permitted to submit a Submission more than 
+once during the Contest Period. Duplicate Submissions by the same person will be subject to 
+disqualification. Any attempt by any Entrant to obtain more than the stated number of entries by 
+using multiple/different email accounts, identities, registrations and logins, or any other methods 
+will void that Entrant's entries and that Entrant may be disqualified. 
+3. Disclaimer. Sponsor will not be responsible for (a) any late, lost, misrouted, garbled or distorted, 
+inaccurate, incomplete or damaged transmissions or entries, if not directly caused by the gross 
+negligence or willful misconduct of Sponsor; (b) telephone, electronic, hardware, software, 
+network, Internet, or other computer- or communications-related malfunctions or failures, if not 
+
+--- PAGE 3 ---
+
+Page 3 of 14 
+directly caused by the gross negligence or willful misconduct of Sponsor; (c) any Contest 
+disruptions, injuries, losses or damages caused by events beyond the control of Sponsor; or (d) any 
+printing or typographical errors in any materials associated with the Contest. 
+Receipt of entries will not be acknowledged or returned. Sponsor is not responsible for lost, late, 
+illegible, stolen, incomplete, invalid, unintelligible, postage-due, misdirected, technically corrupted 
+or garbled entries, which will be disqualified, or for problems of any kind whether mechanical, 
+human or electronic. Proof of submission will not be deemed to be proof of receipt by Sponsor. By 
+entering the Contest, Entrants fully and unconditionally agree to be bound by these rules and the 
+decisions of the judges, which will be final and binding in all matters relating to the Contest. 
+Entrants must comply with the applicable laws, decrees, regulations and guidelines of their Eligible 
+Jurisdiction, and Sponsor will have no obligation to change or modify any of these Official Rules 
+or take any further action as a result of such laws, decrees, regulations or guidelines of any Eligible 
+Jurisdiction, except as is otherwise provided in these Official Rules. 
+4. Contest Entry Start/End Dates.  The Contest begins at 12:00 AM Eastern Time ("ET") on 
+November 12, 2026, and ends at 8:59 PM ET on November 15, 2026 ("Contest Period"). 
+5. Eligibility. Participation open only to legal residents of (i.e., Entrants who have a registered address 
+in) the Eligible Jurisdictions, who have an active, valid Epic Account registered to such Entrant 
+and who are at least eighteen (18) years of age. Entrants with Epic Games Cabined Accounts 
+(“Cabined Accounts”) are ineligible to participate in, or receive any prizes in connection with, the 
+Contest. The Contest is void outside of the Eligible Jurisdictions and where prohibited, taxed or 
+restricted by law. 
+The following are not eligible to enter: (a) employees, officers and directors of Sponsor; (b) 
+individuals who provide services to Sponsor on a regular, ongoing basis (such as long-term 
+contractors, consultants and contingent staff); (c) employees, officers and directors of third parties 
+that provide prizes for, or are engaged by Sponsor in connection with the administration of, the 
+Contest, including Partners (as defined below), and of their parent companies, subsidiaries, 
+affiliates, advertising and promotion agencies; and (d) the immediate families (parents, children, 
+siblings, spouse, uncles, aunts, nephews, nieces, grandparents, and in-laws, regardless of where 
+they live) and members of the same household (whether related or not) of any individual described 
+in (a) through (c). 
+For clarity, content creators and influencers engaged by Sponsor for a single project or campaign, 
+including to promote or participate in the Contest, are eligible to enter and win prizes, provided 
+they meet all other eligibility requirements and are not otherwise excluded under (a) through (d) 
+above. You are not authorized to participate in the Contest if you are not located within the Eligible 
+Jurisdictions. All applicable federal, state, provincial and local laws and regulations 
+apply.  Classification of "Student Entrant": To be eligible as a Student Entrant, the Entrant must be 
+currently enrolled at a higher-educational institution. A Submission created by a team on which 
+every Entrant is a Student Entrant is a "Student Submission." 
+
+--- PAGE 4 ---
+
+Page 4 of 14 
+Notwithstanding any other provision of these Official Rules, Entrants who reside in Brazil are not 
+eligible to receive cash prizes. Such Entrants may remain eligible to participate in the Contest and 
+to receive non-cash prizes, where applicable. 
+6. Submission Guidelines and Content Restrictions: By entering the Contest, each Entrant agrees 
+that Entrant's Submission conforms to the Submission Guidelines (which apply to both UE and 
+UEFN Submissions, with differences indicated), the Content Restrictions, and the requirements of 
+the Intellectual Property section, each as set out in these Official Rules (collectively, the 
+"Guidelines and Restrictions") and that Sponsor, in its sole discretion, may remove any Submission 
+from any and all locations under Sponsor's control and disqualify an Entrant from the Contest if it 
+believes, in its sole discretion, that the Entrant's Submission fails to conform to the Guidelines and 
+Restrictions. 
+7. Submission Guidelines (UE and UEFN; differences indicated): 
+(a) Submissions may, but are not required to, use artificial intelligence ("AI") tools in their creation 
+or gameplay, such as writing gameplay code, generating assets, or powering a system within 
+the game.  
+(b) Submissions must be submitted according to the How to Enter section and directly accessible 
+by Sponsor. 
+(c) Submissions must be accompanied by a Video of the gameplay. Resolution of the Video must 
+match 1920x1080 or higher; 
+(d) UE Submissions only: Submission must not be an obvious extension of one of Sponsor's 
+official Unreal Engine tutorials, meaning a Submission that reuses a tutorial's project, levels or 
+assets with only minor changes (such as renamed, repositioned or re-skinned elements). 
+(e) UE Submissions only: Submission must include custom gameplay that exceeds that found in 
+Sponsor's starter templates. 
+(f) Submissions should not require any additional software to run. 
+(g) Submissions must demonstrate use of the Contest Theme. 
+(h) Entrants may prepare AI tools, agent configurations, Model Context Protocol ("MCP") settings, 
+prompt libraries, and scripts before the Contest Period. Sponsor may ask Entrants to provide 
+these materials, or their version control history, to verify compliance. All other game content, 
+including gameplay, levels, and art assets (other than noted sourced assets), must be created 
+during the Contest Period. 
+(i) All Submission content (including in-game text, audio and the Video) and all entry information 
+must be in English, as all entries will be evaluated by English-speaking judges; 
+(j) Sponsor may require verification of Submissions through a procedure solely determined by 
+Sponsor at its sole discretion. 
+(k) UEFN Submissions only: Submissions must be submitted as a private version code, which 
+represents a fixed snapshot of the island that cannot be changed after it is created. The private 
+
+--- PAGE 5 ---
+
+Page 5 of 14 
+version code must be the final, playable build of the Submission that the Entrants want judged, 
+and must be created before the end of the Contest Period. Live island codes and playtest codes 
+will not be accepted, as they can be updated after the Contest Period. 
+(l) All UEFN Submissions must comply with the UEFN Rules and these Official Rules, including 
+the Guidelines and Restrictions. Only the submitted private version code will be judged, 
+regardless of any later updates to the island. 
+(m) Entrants may continue to develop and publish their islands after the contest period. Any later 
+version of the island will not be judged 
+8. Content Restrictions: 
+• The Submission must not disparage Sponsor or any other person or party, and must not portray 
+Sponsor in a negative light or contain personal attacks on anyone or any discernible product 
+(including competitor products); 
+• The Submission must not contain material that violates or infringes any rights of any other 
+party, including, but not limited to, copyright, trademark, privacy, publicity or any other 
+intellectual property rights; 
+• The Submission must not contain material that is inappropriate, indecent, obscene, hateful, 
+tortious, defamatory, slanderous or libelous, or depict nudity, animal cruelty, or any illegal 
+activity or substance, in each case as determined in Sponsor's sole discretion; 
+• The Submission must not contain material that promotes bigotry, racism, hatred or harm against 
+any group or individual or promotes discrimination based on race, gender, religion, nationality, 
+disability, sexual orientation or age; 
+• The Submission must be appropriate for a teen audience, meaning content suitable for players 
+aged 13 and over (consistent with a "Teen" rating under the ESRB system or its equivalent); 
+• The Submission must not contain material that is unlawful, in violation of or contrary to the 
+laws or regulations of the Eligible Jurisdiction or of any jurisdiction where Submission is 
+created or submitted; 
+• The Submission must be consistent with the image and values of Sponsor and be consistent 
+with and satisfy the purpose of the Contest; and 
+• The Submission must comply with the Intellectual Property section of these Official Rules. 
+Sponsor's decisions are final and binding in all matters relating to the Contest, including, but not 
+limited to, interpretation and application of these Official Rules. 
+9. Judging Panel/Judging Criteria. All Submissions will be pre-screened to ensure compliance with 
+the Guidelines and Restrictions and with Sponsor's general standards and practices prior to any 
+judging ("Qualified Submissions"). At the end of the Contest Period, a panel of qualified judges 
+will select one (1) potential Best Overall: Unreal Engine First Place Prize winner, one (1) potential 
+Best Overall: Unreal Engine Second Place Prize winner, one (1) potential Best Overall: Unreal 
+Engine Third Place Prize winner, one (1) potential Best Overall: UEFN First Place Prize winner, 
+one (1) potential Best Overall: UEFN Second Place Prize winner, one (1) potential Best Overall: 
+UEFN Third Place Prize winner, one (1) potential Best Student Project First Place Prize winner, 
+
+--- PAGE 6 ---
+
+Page 6 of 14 
+one (1) potential Best Student Project Second Place Prize winner, and one (1) potential Best Student 
+Project Third Place Prize winner from the Qualified Submissions received during the Contest 
+Period according to the following criteria: 
+• Ambition and Innovation (Up to 5 points) 
+• Use of Contest Theme (Up to 5 points) 
+• Fun Factor (Up to 5 points) 
+• Gameplay (Up to 5 points) 
+• Visuals (Up to 5 points) 
+• Level Design (Up to 5 points) 
+• Audio (Up to 5 points) 
+Ambition and Innovation will be scored on the Submission itself. The extent of AI use disclosed in 
+a Submission will be considered for context only and will not, on its own, increase or decrease a 
+Submission's score. 
+The highest scoring Qualified Unreal Engine Submission will be deemed the potential Best Overall: 
+Unreal Engine First Place Prize winner. The second-highest scoring Qualified Unreal Engine 
+Submission will be deemed the potential Best Overall: Unreal Engine Second Place Prize winner, 
+and the next highest scoring Qualified Unreal Engine Submission will be deemed the potential Best 
+Overall: Unreal Engine Third Place Prize winner. 
+The highest scoring Qualified UEFN Submission will be deemed the potential Best Overall: UEFN 
+First Place Prize winner. The second-highest scoring Qualified UEFN Submission will be deemed 
+the potential Best Overall: UEFN Second Place Prize winner, and the next highest scoring Qualified 
+UEFN Submission will be deemed the potential Best Overall: UEFN Third Place Prize winner. 
+The highest scoring Qualified Student Submission will be deemed the potential Best Student 
+Project First Place Prize winner. The second-highest scoring Qualified Student Submission will be 
+deemed the potential Best Student Project Second Place Prize winner, and the next highest scoring 
+Qualified Student Submission will be deemed the potential Best Student Project Third Place Prize 
+winner. Student Submissions are also eligible to be selected for the Best Overall prizes in the 
+category (Unreal Engine or UEFN) in which they were submitted; however, a Student Submission 
+may win either a Best Overall prize or a Best Student Project prize, but not both. If a Student 
+Submission is selected as a potential Best Overall prize winner, it will not be eligible for a Best 
+Student Project prize, and the next highest-scoring Qualified Student Submission will be deemed 
+the potential winner of the applicable Best Student Project prize. 
+In the event of a tie, the tying Submissions will be re-scored with double weight given to Fun 
+Factor. 
+10. Judging Criteria for Modifiers. Qualified Submissions will be reviewed and scored by a panel of 
+qualified judges, according to the following criteria. One (1) Entrant will be selected to receive a 
+prize under each criterion, except Pocket Powerhouse, where one (1) Unreal Engine Entrant and 
+one (1) UEFN Entrant will each be selected: 
+
+--- PAGE 7 ---
+
+Page 7 of 14 
+• Solo Driver: For the best game created by a solo developer. 
+• Best Team: For the best overall game created by a team of two (2) or more Entrants. 
+• Render Royalty: For the game with the best overall visuals, photoreal or stylized. 
+• Pocket Powerhouse: For the best mobile game, with one (1) Unreal Engine winner and one (1) 
+UEFN winner. 
+• Glass Box: For the best dev log documenting how the Entrant created their Submission. To be 
+eligible, the dev log must be submitted together with the Submission during the Contest Period. 
+• Walkie-Talkie: For the best narrative-driven UEFN game featuring large language model 
+("LLM")-powered non-player characters built with the UEFN conversations feature. 
+The highest scoring Qualified Submission in each Modifier Prize category that meets the modifier 
+criteria will be deemed a potential Modifier Prize winner (together with the potential main category 
+prize winners, the "Winning Entrants"). A potential prize winner can win only one (1) Modifier 
+Prize category, unless no other eligible potential winner remains for the additional category or 
+categories. 
+11. Development Continuation Grants. Following the Contest, Sponsor may, in its sole discretion, 
+invite select Entrants of Qualified Unreal Engine and UEFN Submissions to apply for development 
+continuation grants of up to fifty thousand U.S. dollars (US $50,000) to complete their Submission 
+(each, a "Development Continuation Grant") in an amount of up to: 
+ Unreal Engine First Place: US $50,000 
+ Unreal Engine Second Place: US $25,000 
+ Unreal Engine Third Place: US $10,000 
+ UEFN First Place: US $50,000 
+ UEFN Second Place: US $25,000 
+ UEFN Third Place: US $10,000 
+Development Continuation Grants are not Contest prizes. Their selection, amounts, milestones if 
+agreed upon, payment schedule, and other terms will be set out in a separate written agreement 
+between Sponsor and the selected Entrant(s). Sponsor is under no obligation to award any 
+Development Continuation Grants. 
+12. Sponsor and the information contained on Sponsor's servers relating to dates, times, and gameplay 
+statistics shall be the sole determiner of the Winning Entrant(s). 
+13. Prizes. If eligible under these Official Rules, prizes (including any prizes provided by third-party 
+partners ("Partners")_of the Contest ("Partner Prizes")) will be awarded to Winning Entrants as 
+follows: 
+(a) Main Category Prizes 
+• One (1) Best Overall: Unreal Engine First Place Prize: US $7,500 plus Partner Prizes if 
+specified 
+
+--- PAGE 8 ---
+
+Page 8 of 14 
+• One (1) Best Overall: Unreal Engine Second Place Prize: US $5,000 plus Partner Prizes if 
+specified 
+• One (1) Best Overall: Unreal Engine Third Place Prize: US $2,500 plus Partner Prizes if 
+specified 
+• One (1) Best Overall: UEFN First Place Prize: US $7,500 plus Partner Prizes if specified 
+• One (1) Best Overall: UEFN Second Place Prize: US $5,000 plus Partner Prizes if specified 
+• One (1) Best Overall: UEFN Third Place Prize: US $2,500 plus Partner Prizes if specified 
+• One (1) Best Student Project First Place Prize: US $7,500 plus Partner Prizes if specified 
+• One (1) Best Student Project Second Place Prize: US $5,000 plus Partner Prizes if specified 
+• One (1) Best Student Project Third Place Prize: US $2,500 plus Partner Prizes if specified 
+(b) Modifier Prizes 
+• One (1) Solo Driver Modifier Prize: US $2,500 plus Partner Prizes if specified 
+• One (1) Best Team Modifier Prize: US $5,000 plus Partner Prizes if specified 
+• One (1) Render Royalty Modifier Prize: US $2,500 plus Partner Prizes if specified 
+• Two (2) Pocket Powerhouse Modifier Prizes (one (1) Unreal Engine, one (1) UEFN): US 
+$2,500 each [plus Partner Prizes if specified] 
+• One (1) Glass Box Modifier Prize: US $2,500 plus Partner Prizes if specified 
+• One (1) Walkie-Talkie Modifier Prize: US $2,500 plus Partner Prizes if specified 
+Total cash prizes: US $65,000. 
+Approximate Retail Value ("ARV") of all cash prizes: US $65,000. The ARV of any Partner Prizes 
+is not included in this amount, is not known as of the date of these Official Rules, and will be 
+determined once the Partner Prizes are confirmed. 
+Prizes are awarded per Submission (that is, per team) and not per Entrant. Each prize (including 
+each cash prize and any Partner Prize) will be awarded to the Team Owner on behalf of the team, 
+and the Team Owner is solely responsible for dividing or sharing the prize among the Entrants on 
+the team. Sponsor has no responsibility or liability for any such division or sharing. For a team 
+Submission, the Team Owner is the payee for the purposes of the banking and tax documentation 
+requirements in these Official Rules. 
+Cash prizes will be awarded to Winning Entrants via Hyperwallet. Physical Partner Prizes will be 
+provided and shipped to the applicable Winning Entrant by the Partner that provides the prize, and 
+not by Sponsor. By entering, each Entrant agrees that, if the Entrant's team has a Winning Entrant, 
+Sponsor may share the name, email address and shipping address (being the address registered to 
+the Winning Entrant's Epic Account or another address provided to Sponsor for this purpose) of 
+that Winning Entrant with the applicable partner, solely so that the partner can deliver the prize. 
+Sponsor is not responsible for the delivery, condition or quality of any Partner Prize provided by a 
+third-party partner. 
+Winning Entrants are not entitled to any surplus between actual retail value of prize and ARV and 
+any difference between approximate and ARV of the prize will not be awarded. Prizes are not 
+
+--- PAGE 9 ---
+
+Page 9 of 14 
+transferable. No substitutions or exchanges (including for cash) of any prizes will be permitted, 
+except that Sponsor reserves the right to substitute a prize of equal or greater value for any prize. 
+All prizes are awarded "AS IS" and WITHOUT WARRANTY OF ANY KIND, express or implied 
+(including, without limitation, any implied warranty of merchantability or fitness for a particular 
+purpose). 
+AWARDS OF PRIZES TO POTENTIAL WINNING ENTRANTS ARE SUBJECT TO THE 
+EXPRESS REQUIREMENT THAT THEY SUBMIT TO SPONSOR ALL DOCUMENTATION 
+REQUESTED BY SPONSOR TO PERMIT IT TO COMPLY WITH ALL APPLICABLE 
+FEDERAL, STATE, PROVINCIAL, LOCAL OR OTHER TAX REPORTING LAW OR 
+REGULATIONS IN THE UNITED STATES AND IN THEIR RESPECTIVE JURISDICTION. 
+ALL PRIZES WILL BE NET OF ANY TAXES SPONSOR IS REQUIRED BY LAW TO 
+WITHHOLD. TO THE EXTENT PERMITTED BY LAW, ALL TAXES IMPOSED ON PRIZES 
+ARE THE SOLE RESPONSIBILITY OF THE WINNING ENTRANTS. Refusal by any Winning 
+Entrant to submit such documentation or complete any required forms or obligations shall result in 
+such Winning Entrant forfeiting the prize, leaving it unclaimed. 
+Limit one (1) main category prize and one (1) Modifier Prize per Submission. 
+Partner will bear all shipping, handling, insurance, customs, import duty, currency conversion, and 
+processing costs, so that Winning Entrant(s) receive the full prize as specified in this section, 
+subject only to any tax withholding or reporting required by law. Partner will ship each prize in a 
+timely manner and will retain proof of delivery. Partner is responsible for any prize that is lost, 
+damaged, misdelivered, or awarded in error, or that is otherwise not delivered in accordance with 
+this Contest, and will replace or remedy it at Partner's own expense. 
+Partner will determine if tax withholdings are required, based on the location of the Winning 
+Entrant(s) and the location of the Partner(s) supplying the prize. Partner will withhold any taxes 
+from non-cash prize payments as required by law and remit such taxes to the proper taxing 
+authority. For such non-cash prize payments, Partner will provide proper forms and documentation 
+to the tax authority and Entrants as required by law. 
+14. Notification. Potential Winning Entrant(s) will be notified on or about January 29, 2027 (or such 
+other time as reasonably required by Sponsor for such notification) via the email address provided 
+with their Submission, and may be required to sign and return, where legal, a Prize Acceptance and 
+Release Form ("Prize Release") within the timeframe specified below. 
+Upon formal notification from Sponsor, a potential Winning Entrant shall have 72 hours from the 
+date such notice was sent to respond and provide any information or materials requested by 
+Sponsor, including (a) such potential Winning Entrant's Epic Account ID, and (b) the Prize Release, 
+for purposes of verification of eligibility. The date of receipt by Sponsor shall be decisive for a 
+potential Winning Entrant's compliance with the deadlines set forth in this section. The failure by 
+such Entrant to timely respond to any notification may result in such Entrant's disqualification as a 
+potential Winning Entrant, in which case such Entrant shall not be entitled to win any prizes in 
+connection with the Contest. In such cases, Sponsor may select the next highest scoring entry from 
+among the remaining Qualified Submissions as an alternate potential Winning Entrant. 
+
+--- PAGE 10 ---
+
+Page 10 of 14 
+Without limiting the foregoing, an alternate potential Winning Entrant may be selected from among 
+the next highest scoring remaining Qualified Submissions if a potential Winning Entrant: (i) cannot 
+be reached; (ii) fails to obtain all signatures on the Prize Release and to return the document in a 
+timely manner as required pursuant to these Official Rules; or (iii) cannot or will not accept or 
+receive the prize for any reason (including, without limitation, for attempting to complete the 
+verification of eligibility process with a Cabined Account). 
+A potential Winning Entrant will only be deemed a Winning Entrant once the verification process 
+has been completed by Sponsor pursuant to these Official Rules. 
+Sponsor may withhold tax payments on a Winning Entrant's behalf in its reasonable discretion, 
+using the applicable backup withholding rates, or if required by law or treaty. However, a Winning 
+Entrant is ultimately responsible for any federal, provincial, local, state and local taxes due in 
+connection with any awarded prize he/she receives from Sponsor pursuant to such Winning 
+Entrant's participation in the Contest. Each Winning Entrant must provide Sponsor with (y) such 
+Winning Entrant's banking information, as requested by Sponsor, and (z) a completed W-9, W-
+8BEN, or W-8BENE tax form, including, if necessary, such Winning Entrant's U.S. or foreign 
+Taxpayer Identification Number (TIN), as appropriate based on such Winning Entrant's 
+circumstances. Sponsor will not be responsible for any failure to award any prizes in connection 
+with the Contest arising from incomplete, incorrect, or out of date payment or tax information. 
+Winning Entrants should please consult their tax advisors if they have questions on the taxability 
+to them in connection with the Contest. 
+15. Intellectual Property. This section sets out the rights, licenses, warranties and rules relating to 
+intellectual property in connection with the Contest. It applies to all Submissions, UE and UEFN, 
+except where a difference is indicated. Sponsor's permission to use Winning Entrants' names and 
+likenesses is addressed separately in the Conditions section. 
+(a) Rights. By entering, each Entrant warrants, with respect to the Submission of the Entrant's 
+team, that: (i) the Entrants have all rights and permissions needed to submit the Submission 
+and grant Sponsor the license in paragraph (b), including for sourced assets under paragraph 
+(c) and (ii) to the Entrants' knowledge, the Submission does not infringe or violate any third-
+party right including any copyright, trademark, privacy, publicity or other intellectual property 
+or other right of any third party. A Submission may include AI-generated content. The Team 
+Owner submits on behalf of, and with authority from, all Entrants on the team. 
+(b) License to Sponsor.  As a condition of entry, each Entrant hereby grants to Sponsor a non-
+exclusive, perpetual (or for the duration of protection of rights where perpetuity is void), 
+irrevocable, worldwide, transferable, sublicensable, and royalty free license to use, modify, 
+reproduce, prepare derivative works of, distribute, perform, and display the Submission in any 
+and all media or technology throughout the world, now known or later developed (but for 
+Colombian, Greek, and Spanish participants, in any medium or technology known at the time 
+when such rights were granted), but only in connection with publicizing the Contest. 
+ENTRANTS WILL NOT BE SPECIFICALLY PAID FOR THEIR SUBMISSIONS or for 
+granting Sponsor any of these rights. While Sponsor will seek to post the Submission in the 
+form as provided at the time of entry, each Entrant agrees that due to technical limitations and 
+
+--- PAGE 11 ---
+
+Page 11 of 14 
+internal standards, such Entrant's Submission may be altered from its original form and that 
+Sponsor reserves the right to modify the Submission in its sole discretion, including adding its 
+logo or other trademarks. Sponsor may post Submissions in any order or sequence, with or 
+without commentary, and may select an image to serve as a thumbnail in its sole discretion. 
+(c) Sourced Assets. A Submission may include sourced assets, provided that (i) all sourced (non-
+original) assets are noted upon submission, (ii) such assets will not be reviewed or scored, and 
+(iii) the Entrants have obtained, at their own cost, all clearances, consents and provisions 
+(including from any relevant authorities, collecting societies and other relevant third parties) 
+required for exploitation of such sourced assets, and shall pay any applicable fees and royalties 
+to any collecting societies or other third parties in accordance with their rules. Content the 
+Entrants generate with AI tools is not considered a sourced asset. 
+(d) Trademarks and Logos. Submissions may not feature any trademarks (including logos), 
+except (i) in the case of UE Submissions, the Unreal Engine logo, and (ii) in the case of 
+UEFN Submissions, the Developed in Fortnite logo, in each case as described in Sponsor's 
+Branding Guidelines (UE: https://www.unrealengine.com/branding; UEFN: 
+https://brand.epicgames.com/developed-in-fortnite). 
+(e) Similar Ideas. Each Entrant acknowledges that other Entrants may have used ideas and/or 
+concepts in their Submission that may be similar in idea or concept to what is included in 
+Entrant's Submission. Each Entrant understands and agrees that he/she shall not have any claim 
+against any other Entrant or Sponsor arising out of any such similarity or be entitled to any 
+compensation because of any such similarity. 
+(f) Indemnity. Each Entrant hereby agrees to indemnify Sponsor against any and all claims from 
+any third party for any use by Sponsor of such Entrant's Submission. 
+(g) Copyright Review; Disqualification.  Although Sponsor is not reviewing Submissions for 
+copyright violations, if, in the sole discretion of Sponsor, it is believed an Entrant's Submission 
+constitutes or may constitute copyright infringement, such Submission will be disqualified. 
+(h) Prize Release. Entrants must sign and return the Prize Release (as defined above) as requested 
+by Sponsor to perfect the grant of rights in favor of Sponsor with respect to the Entrant's 
+Submission pursuant to the terms indicated in these Official Rules, if necessary. 
+16. Conditions. BY PARTICIPATING, TO THE EXTENT PERMITTED BY APPLICABLE LAW, 
+AND SUBJECT TO THE NON-EXCLUDABLE GUARANTEES (DEFINED BELOW), EACH 
+ENTRANT AND WINNING ENTRANT AGREE TO RELEASE AND HOLD HARMLESS 
+SPONSOR, ITS PROMOTIONAL PARTNERS AND THEIR ADVERTISING AND 
+PROMOTIONS AGENCIES, CONTENT PROVIDERS, PRODUCERS AND DISTRIBUTORS 
+OF CONTENT, AND EACH OF THEIR RESPECTIVE PARENT COMPANIES, 
+SUBSIDIARIES, AFFILIATES, PARTNERS, REPRESENTATIVES, AGENTS, 
+SUCCESSORS, ASSIGNS, EMPLOYEES, OFFICERS AND DIRECTORS (COLLECTIVELY, 
+"RELEASED ENTITIES"), FROM ANY AND ALL LIABILITY, FOR LOSS, HARM, 
+DAMAGE, INJURY, COST OR EXPENSE WHATSOEVER INCLUDING WITHOUT 
+LIMITATION, PROPERTY DAMAGE, PERSONAL INJURY AND/OR DEATH WHICH MAY 
+
+--- PAGE 12 ---
+
+Page 12 of 14 
+OCCUR IN CONNECTION WITH, PREPARATION FOR, TRAVEL TO, OR PARTICIPATION 
+IN THE CONTEST, OR POSSESSION, ACCEPTANCE AND/OR USE OR MISUSE OF A 
+PRIZE OR PARTICIPATION IN ANY CONTEST-RELATED ACTIVITY, AND FOR ANY 
+CLAIMS BASED ON PUBLICITY RIGHTS, DEFAMATION, INVASION OF PRIVACY, 
+COPYRIGHT INFRINGEMENT, TRADEMARK INFRINGEMENT OR ANY OTHER 
+INTELLECTUAL PROPERTY-RELATED CAUSE OF ACTION. Participation in the Contest 
+and acceptance of a prize constitutes each Winning Entrant's permission for Sponsor to use his/her 
+name, address (city and state/province/territory), likeness, photograph, picture, portrait, voice, 
+biographical information, and/or any statements made by each Winning Entrant regarding the 
+Contest or Sponsor for advertising and promotional purposes without notice or additional 
+compensation, except where prohibited by law. Entrants who do not comply with these Official 
+Rules, or attempt to interfere with the Contest in any way shall be disqualified. Entrants 
+acknowledge and agree that their participation in the Contest are not and do not create any 
+confidential, fiduciary, employment, agency or other special relationship between Entrant and 
+Sponsor. Subject to the Non-Excludable Guarantees, Sponsor is not responsible if the Contest 
+cannot take place or if any prize cannot be awarded due to any event beyond Sponsor's control, 
+including, but not limited to, travel cancellations, delays or interruptions due to acts of God, acts 
+of war, acts of terrorism, any act of governmental or military authorities (foreign or domestic), 
+outbreak of disease or other public health hazard, natural disasters, weather, or labor dispute or 
+strike. 
+17. Additional Terms. Any attempted form of entry other than as set forth above is prohibited; no 
+automatic, programmed, robotic or similar means of entry are permitted. This does not restrict the 
+use of AI tools to create a Submission as permitted by these Official Rules, but each Submission 
+must be submitted by an Entrant (on behalf of the team) and not by an AI agent or other automated 
+means. To the extent permitted by applicable law, and subject to the Non-Excludable Guarantees, 
+the Released Entities are not responsible for technical, hardware, software, telephone or other 
+communications malfunctions, errors or failures of any kind, lost or unavailable network 
+connections, web site, Internet, or ISP availability, unauthorized human intervention, traffic 
+congestion, incomplete or inaccurate capture of entry information (regardless of cause) or failed, 
+incomplete, garbled, jumbled or delayed computer transmissions which may limit one's ability to 
+enter the Contest, including any injury or damage to participant's or any other person's computer 
+relating to or resulting from participating in the Contest or downloading any materials in the 
+Contest. Sponsor reserves the right, in its sole discretion, to cancel, terminate, modify, extend or 
+suspend the Contest should (in its sole discretion) virus, bugs, non-authorized human intervention, 
+fraud or other causes beyond its reasonable control corrupt or affect the administration, security, 
+fairness or proper conduct of the Contest and/or as a result of any applicable law, regulation, decree 
+or guideline. In such case, Sponsor may select the Winning Entrants from all eligible entries 
+received prior to and/or after (if appropriate) the action taken by Sponsor. If Sponsor decides to 
+cancel or modify the Contest in accordance with these Official Rules, it will provide a notice of 
+such cancellation or modification. Sponsor reserves the right, at its sole discretion, to disqualify 
+any individual it finds, in its sole discretion, to be tampering with the entry process or the operation 
+of the Contest or web site. Sponsor may prohibit an Entrant from participating in the Contest or 
+winning a prize if, in its sole discretion, it determines that said Entrant is attempting to undermine 
+
+--- PAGE 13 ---
+
+Page 13 of 14 
+the legitimate operation of the Contest by cheating, hacking, deception, or other unfair playing 
+practices or intending to annoy, abuse, threaten or harass any other Entrants or Sponsor 
+representatives. 
+CAUTION: ANY ATTEMPT BY AN ENTRANT TO DELIBERATELY DAMAGE ANY WEB SITE 
+OR UNDERMINE THE LEGITIMATE OPERATION OF THE CONTEST MAY BE A VIOLATION 
+OF CRIMINAL AND CIVIL LAWS, AND SHOULD SUCH AN ATTEMPT BE MADE, SPONSOR 
+RESERVES THE RIGHT TO SEEK DAMAGES FROM ANY SUCH PERSON TO THE FULLEST 
+EXTENT PERMITTED BY LAW. 
+18. Limitation of Liability; Disclaimer of Warranties. TO THE FULLEST EXTENT PERMITTED 
+BY LAW, IN NO EVENT WILL THE RELEASED ENTITIES BE RESPONSIBLE OR LIABLE 
+FOR ANY DAMAGES OR LOSSES OF ANY KIND, INCLUDING DIRECT, INDIRECT, 
+INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR 
+ACCESS TO AND USE OF ANY WEBSITES ASSOCIATED WITH THE CONTEST, OR 
+DOWNLOADING FROM AND/OR PRINTING MATERIAL DOWNLOADED FROM ANY 
+WEBSITES ASSOCIATED WITH THE CONTEST. WITHOUT LIMITING THE FOREGOING, 
+THE CONTEST AND ALL PRIZES ARE PROVIDED "AS IS" WITHOUT WARRANTY OF 
+ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE OR NON-INFRINGEMENT. SOME JURISDICTIONS DO NOT ALLOW (a) THE 
+EXCLUSION OF IMPLIED WARRANTIES ON APPLICABLE STATUTORY RIGHTS; AND 
+(b) LIMITATIONS ON A CONTRACTING PARTY'S LIABILITY WITH REGARDS TO 
+DAMAGES OR DEATH CAUSED DUE TO ITS NEGLIGENCE OR INTENTIONAL 
+MISCONDUCT, SO THE ABOVE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY IN 
+SOME CASES. THIS LIMITATION MAY NOT BE ENFORCEABLE IN ALL 
+JURISDICTIONS AND THEREFORE MAY NOT APPLY TO ALL ELIGIBLE 
+PARTICIPANTS. FURTHER, NOTHING IN THESE TERMS AND CONDITIONS EXCLUDES 
+OR MODIFIES OR PURPORTS TO LIMIT, EXCLUDE OR MODIFY ANY STATUTORY 
+CONSUMER GUARANTEES OR ANY IMPLIED CONDITION OR WARRANTY, THE 
+EXCLUSION OF WHICH FROM THESE OFFICIAL RULES WOULD CONTRAVENE ANY 
+STATUTE OR CAUSE ANY PART OF THESE TERMS AND CONDITIONS TO BE VOID 
+("NON-EXCLUDABLE GUARANTEES"). CHECK YOUR LOCAL LAWS FOR ANY 
+RESTRICTIONS OR LIMITATIONS REGARDING THESE LIMITATIONS OR 
+EXCLUSIONS. 
+19. Disputes; Governing Law. To the fullest extent permitted by law, the parties waive all rights to 
+trial in any action or proceeding instituted in connection with these Official Rules, including, 
+without limitation, the Contest. 
+20. TO THE FULLEST EXTENT PERMITTED BY LAW, THESE OFFICIAL RULES AND THE 
+INTERPRETATION OF ITS TERMS SHALL BE GOVERNED BY AND CONSTRUED IN 
+ACCORDANCE WITH THE LAWS OF THE STATE OF NORTH CAROLINA WITHOUT 
+REGARD TO ITS CONFLICTS OF LAWS RULES. The parties irrevocably submit and consent 
+to the exclusive jurisdiction of the Superior Court of Wake County, North Carolina, or, if federal 
+
+--- PAGE 14 ---
+
+Page 14 of 14 
+court jurisdiction exists, the United States District Court for the Eastern District of North Carolina. 
+The parties agree not to raise the defense of forum non conveniens. 
+21. Use of Data. The information Entrants provide will be used only in accordance with Sponsor's 
+privacy policy, located at https://www.epicgames.com/privacypolicy. In the case of Winning 
+Entrants, contact details may also be shared with the applicable third-party partner solely to 
+deliver a Partner Prize, as described in the Prizes section. 
+22. Name of Winner/List of Winners.  To obtain a list of winners including country and/or city and 
+state/other jurisdiction of residence, as applicable, send a self-addressed, stamped envelope with 
+sufficient postage to: Epic AI MegaJam 2026 - Winners List, Epic Games, Inc., 620 Crossroads 
+Blvd, Cary, NC 27518. Requests must be received no more than ninety (90) days after the end of 
+the Contest. 
+23. Sponsor. Epic Games, Inc., 620 Crossroads Blvd., Cary, North Carolina 27518, United States of 
+America. 
+If one or more provisions of these Official Rules shall be found invalid, illegal or 
+unenforceable, the validity, legality and enforceability of the remaining provisions of these 
+Official Rules shall not be affected in any way thereby. 
+These Official Rules, and any changes to them will be posted online as a downloadable PDF 
+at https://epicgames.box.com/s/svkmfifwv7336vyq1h0y7eucdr9d6ooc and linked from 
+https://www.unrealengine.com/news/2026-epic-ai-megajam. 
+Change Log  
+• Last updated: October 26, 2026.  Updated the Restricted Jurisdictions (removed Brazil, 
+Russia and Turkey), added that residents of Brazil are not eligible for cash prizes (Section 5), 
+and clarified eligibility for contractors, content creators and influencers (Section 5). 
+• October 22, 2026: Original version published. 
+
