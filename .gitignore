@@ -1,0 +1,46 @@
+# Unreal Engine .gitignore
+
+# Build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.idea/
+*.code-workspace
+
+# Compiled assets
+*.pdb
+*.pch
+*.lib
+*.obj
+
+# Crash reports
+CrashReportClient/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Autosave
+*_BuiltData.uasset
+
+# Local content (optional - uncomment if using)
+# Content/_Local/
+
+# Large binary files that should use Git LFS
+# *.uasset filter=lfs diff=lfs merge=lfs -text
+# *.umap filter=lfs diff=lfs merge=lfs -text
