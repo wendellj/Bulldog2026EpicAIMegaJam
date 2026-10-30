@@ -1,0 +1,178 @@
+AUDIO TEAM GUIDE - BULLDOG MEGAJAM
+===================================
+
+You're making sounds and music for our VR game. This guide covers free AI tools
+that don't require coding or technical skills.
+
+
+WHAT WE NEED
+------------
+
+- Background music (1-3 tracks, loopable)
+- Sound effects (footsteps, UI clicks, ambient cave/space sounds, etc.)
+- Voice lines (optional - character dialogue or narrator)
+
+
+TOOL 1: SUNO (AI Music)
+-----------------------
+Website: https://suno.com
+Cost: Free tier = 50 credits/day (about 10 songs)
+
+What it does: You describe the music you want in plain English, and it generates
+full songs with instruments and optional vocals.
+
+Setup:
+1. Go to https://suno.com
+2. Click "Sign Up" (use your Google account or email)
+3. That's it - you're ready to create
+
+How to use:
+1. Click "Create"
+2. In the text box, describe what you want. Examples:
+   - "ambient electronic music, mysterious, slow, no vocals, loopable"
+   - "tense orchestral soundtrack, building suspense, cinematic"
+   - "relaxing synth music, retro game vibes, 80s, instrumental"
+3. Click "Create"
+4. Wait about 30 seconds
+5. Listen to the results (it generates 2 versions)
+6. Click the download button (arrow pointing down) to save as MP3
+
+Tips:
+- Add "instrumental" or "no vocals" if you don't want singing
+- Add "loopable" for background music that repeats
+- Generate several versions and pick the best one
+- Keep descriptions simple and specific
+
+
+TOOL 2: ELEVENLABS (Voice Lines)
+---------------------------------
+Website: https://elevenlabs.io
+Cost: Free tier = 10,000 characters/month (about 10 minutes of audio)
+
+What it does: Converts text to realistic speech. Good for narration, NPC
+dialogue, or announcer voices.
+
+Setup:
+1. Go to https://elevenlabs.io
+2. Click "Sign Up" (use Google or email)
+3. Verify your email
+
+How to use:
+1. Click "Text to Speech" in the left menu
+2. Pick a voice from the dropdown (try a few to find one you like)
+3. Type or paste your script in the text box
+4. Click "Generate"
+5. Listen to the result
+6. Click the download button to save as MP3
+
+Tips:
+- Write how you want it spoken: "Hello... is anyone there?" reads differently
+  than "Hello! Is anyone there?"
+- Use shorter sentences for better results
+- The free tier is limited, so write out all your lines first, then generate
+
+
+TOOL 3: ELEVENLABS SOUND EFFECTS
+---------------------------------
+Website: https://elevenlabs.io/sound-effects
+Cost: Free (included with ElevenLabs account)
+
+What it does: Generates sound effects from text descriptions.
+
+How to use:
+1. Go to https://elevenlabs.io/sound-effects
+2. Log in with your ElevenLabs account
+3. Type a description: "footsteps on metal grating" or "sci-fi door opening"
+4. Click "Generate"
+5. Download the result
+
+Tips:
+- Be specific: "heavy wooden door creaking open slowly" works better than "door"
+- Generate multiple versions and pick the best
+
+
+TOOL 4: FREESOUND (Free Sound Library)
+--------------------------------------
+Website: https://freesound.org
+Cost: Free (requires free account)
+
+What it does: Library of sounds uploaded by real people. Good for realistic
+effects that AI struggles with.
+
+Setup:
+1. Go to https://freesound.org
+2. Click "Register" and create an account
+3. Verify your email
+
+How to use:
+1. Use the search bar to find sounds: "wind", "button click", "heartbeat"
+2. Click on results to preview them
+3. Check the license (look for "CC0" or "Creative Commons")
+4. Click "Download"
+
+Important: Write down which sounds you used and their licenses. We need this
+for game credits.
+
+
+TOOL 5: PIXABAY MUSIC & SOUNDS
+-------------------------------
+Website: https://pixabay.com/music/ and https://pixabay.com/sound-effects/
+Cost: Free, no account required
+
+What it does: Free music and sound effects library. Everything is royalty-free.
+
+How to use:
+1. Go to the website
+2. Search or browse
+3. Click download
+4. No attribution required (but nice to give credit)
+
+
+FILE FORMAT REQUIREMENTS
+------------------------
+
+Save all audio as:
+- Format: WAV or MP3 (WAV preferred for sound effects, MP3 ok for music)
+- Sample rate: 44100 Hz or 48000 Hz
+- Bit depth: 16-bit or 24-bit
+
+Suno and ElevenLabs export in correct formats automatically.
+
+
+ORGANIZING YOUR FILES
+---------------------
+
+Create folders on your computer:
+
+  Audio/
+    Music/
+      background_main.mp3
+      background_tense.mp3
+    SFX/
+      footstep_01.wav
+      footstep_02.wav
+      ui_click.wav
+    Voice/
+      narrator_intro.mp3
+      npc_greeting.mp3
+
+Name files with lowercase and underscores, no spaces.
+Use numbers for variations: footstep_01, footstep_02, etc.
+
+
+SHARING WITH THE TEAM
+---------------------
+
+Option A - Google Drive:
+1. Upload your Audio folder to Google Drive
+2. Share the link in Slack
+
+Option B - Direct to Git (ask Wendell for help):
+1. Copy your Audio folder into the project folder
+2. Wendell will add it to the repository
+
+
+QUESTIONS?
+----------
+
+Post in Slack: Bulldog2026EpicAIMegaJam
