@@ -23,7 +23,22 @@ virtual world moves in that direction. Closer to edge = faster movement. It's
 like controlling a giant virtual space with your body position.
 
 We're still deciding what you DO in this space. Exploration? Puzzle solving?
-Survival? That's partly up to you.
+Survival? That depends on the theme, which Epic reveals the day before the jam.
+
+THE THEME
+
+Every MegaJam has a theme that you interpret in your game. Past themes include
+"Antiquated Future" (2023), "As Above, So Below" (2022), "Running Out of Space"
+(2021), "It's Been a Long Time, But We're Not Done Yet" (2020), "Down to Earth"
+(2019), and "Reality Is Often Inaccurate" (2018). Themes are open to
+interpretation and can be taken literally or metaphorically. "Running Out of
+Space" spawned games about storage limits, cramped rooms, and outer space.
+
+The 2026 theme will be revealed November 11 at 11am PST during the kickoff
+livestream. We'll watch together and brainstorm immediately after. Our edge-
+proximity VR mechanic is flexible enough to fit almost any theme by changing
+the context: a cave for exploration themes, zero-G for space themes, a memory
+palace for nostalgia themes, limited visibility for darkness themes.
 
 
 WHAT I NEED FROM YOU
@@ -171,3 +186,12 @@ Reply below with your commitment.
 
 
 P.S. Read the manifesto: https://github.com/wendellj/Bulldog2026EpicAIMegaJam/blob/master/Manifesto.txt
+
+
+REFERENCES
+----------
+
+Epic AI MegaJam 2026: https://itch.io/jam/2026-epic-ai-megajam
+Our GitHub Repo: https://github.com/wendellj/Bulldog2026EpicAIMegaJam
+Past MegaJam Themes: https://itch.io/jam/2025-epic-megajam
+Theme History Discussion: https://polycount.com/discussion/227721/2021-epic-megajam-running-out-of-space
