@@ -14,11 +14,10 @@ You're building a VR game for the 2026 Epic AI MegaJam. This guide covers everyt
 | Date | What | Where |
 |------|------|-------|
 | Nov 1 (Sat) | Git 101 + Build Pipeline | N250 Lab or Discord |
-| Nov 2 (Sun) | Equipment Pickup Day 1 | Library D126 |
-| Nov 3 (Mon) | Equipment Pickup Day 2 + Software Install | Library D126 / XR Lab D126P |
-| Nov 4 (Tue) | AI Tools Workshop | Discord / XR Lab |
-| Nov 5 (Wed) | Asset Pipeline + Your First Contribution | Discord |
-| Nov 7 (Fri) | Mini-Jam (2-hour prototype) | Discord / XR Lab |
+| Nov 4 (Tue) | AI Tools Workshop | Discord |
+| Nov 5-6 (Wed/Thu) | **GROUP Equipment Pickup** (all team members together) | XR Lab D126P, 12-5pm |
+| Nov 7 (Fri) | Asset Pipeline + Your First Contribution | Discord |
+| Nov 8 (Sat) | Mini-Jam (2-hour prototype) | Discord |
 | Nov 9 (Sun) | Theme Prep + Roles Confirmed | Discord |
 | Nov 10 (Mon) | Final Sync + Submission Checklist | Discord |
 
@@ -65,38 +64,46 @@ You'll watch Wendell do this end-to-end. During the jam, you won't need to build
 
 ---
 
-## Nov 2-3: Equipment Pickup
+## Nov 5-6: Equipment Pickup (GROUP PICKUP - ALL TEAM MEMBERS)
 
-### Laptop (Library Tech Hub, Room D126)
+**IMPORTANT**: Maria has requested that the entire team come together to pick up equipment. This allows XR Lab staff to verify all software is installed before laptops leave. Only someone with admin rights can install applications on the laptops.
 
-Walk up to the desk with your BC Student ID. Say:
+### When and Where
 
-> "I need a quarterly laptop loan. I need a high-performance machine capable of running Unreal Engine 5 for a game jam."
+- **When**: Wednesday Nov 5 or Thursday Nov 6, 12pm-5pm
+- **Where**: XR Lab, Room D126P (Library Building D)
+- **Contact**: Larry Boykin (equipment checkout)
+- **Bring**: Your BC Student ID
 
-Do NOT accept a Chromebook or basic laptop. You need a machine with a dedicated GPU.
+### What the XR Lab is Providing
 
-**Hours**: Mon-Thu 7:45am-8pm, Fri 7:45am-5pm, Sat-Sun 11am-5pm
+| Item | Quantity | Notes |
+|------|----------|-------|
+| Development laptops | 5 (one per team member) | Unreal Engine capable, need admin to install software |
+| Meta Quest 3 headsets | 5 | Controllers and charging cables included |
 
-### Quest 3 (XR Lab, Room D126P)
+### At Pickup
 
-You should have already emailed xrlab@bellevuecollege.edu requesting an off-campus loan. If approved, visit during drop-in hours to sign the waiver and pick up the headset.
-
-**Drop-in hours**: Tue/Wed/Thu 12pm-5pm
-
-**What you get**: Quest 3 headset, controllers, charging cable
-
-**Your responsibility**: Keep it safe. Charge it. Don't break it.
+1. Entire team meets at XR Lab together
+2. Larry checks out equipment to each person
+3. XR Lab staff verifies software is installed (UE5, etc.)
+4. If anything is missing, they install it on the spot
+5. You sign equipment waiver
+6. You leave with laptop + Quest 3
 
 ### After Pickup
 
 1. Update Quest 3 firmware to latest version
 2. Enable Developer Mode via Meta Developer account (ask if you need help)
-3. Install Unreal Engine 5.8 on your laptop
-4. Clone the project repo
-5. Open the project in Unreal, let it compile shaders (this takes a while)
-6. Confirm you can see the editor without errors
+3. Clone the project repo to your laptop
+4. Open the project in Unreal, let it compile shaders (this takes a while)
+5. Confirm you can see the editor without errors
 
 Post in Discord when you're set up: "Equipment picked up, project opens, ready to go."
+
+### Wendell's Equipment
+
+Wendell is using personal laptop and Quest 3, not XR Lab equipment.
 
 ---
 
