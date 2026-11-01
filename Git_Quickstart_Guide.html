@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Quickstart Guide for Artists - Bulldog MegaJam</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: #1a1a2e;
+            color: #eaeaea;
+        }
+        h1 {
+            color: #00d4ff;
+            border-bottom: 3px solid #00d4ff;
+            padding-bottom: 0.5rem;
+        }
+        h2 {
+            color: #ff6b6b;
+            margin-top: 2.5rem;
+            border-bottom: 1px solid #444;
+            padding-bottom: 0.3rem;
+        }
+        h3 {
+            color: #ffd93d;
+            margin-top: 1.5rem;
+        }
+        a {
+            color: #00d4ff;
+        }
+        code {
+            background: #2d2d44;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-family: "Consolas", "Monaco", monospace;
+            font-size: 0.9em;
+        }
+        pre {
+            background: #2d2d44;
+            padding: 1rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            border-left: 4px solid #00d4ff;
+        }
+        pre code {
+            background: none;
+            padding: 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            border: 1px solid #444;
+            padding: 0.75rem;
+            text-align: left;
+        }
+        th {
+            background: #2d2d44;
+            color: #00d4ff;
+        }
+        tr:nth-child(even) {
+            background: #1f1f35;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid #444;
+            margin: 2rem 0;
+        }
+        ol, ul {
+            padding-left: 1.5rem;
+        }
+        li {
+            margin: 0.5rem 0;
+        }
+        strong {
+            color: #ffd93d;
+        }
+        .step-box {
+            background: #2d2d44;
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            margin: 1rem 0;
+            border-left: 4px solid #6bcb77;
+        }
+        .warning-box {
+            background: #3d2d2d;
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            margin: 1rem 0;
+            border-left: 4px solid #ff6b6b;
+        }
+        .tip-box {
+            background: #2d3d2d;
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            margin: 1rem 0;
+            border-left: 4px solid #6bcb77;
+        }
+        .intro {
+            font-size: 1.1em;
+            color: #b8b8b8;
+        }
+        .good { color: #6bcb77; }
+        .bad { color: #ff6b6b; }
+    </style>
+</head>
+<body>
+    <h1>Git Quickstart Guide for Artists</h1>
+
+    <p class="intro">This guide covers the basics you need to contribute art to the project. No prior Git experience required.</p>
+
+    <hr>
+
+    <h2>What is Git?</h2>
+
+    <p>Git tracks every change to the project files. If something breaks, we can go back to a working version. It also lets multiple people work on the same project without overwriting each other's work.</p>
+
+    <p><strong>GitHub</strong> is where our project lives online. Git is the tool that syncs your local files with GitHub.</p>
+
+    <hr>
+
+    <h2>One-Time Setup</h2>
+
+    <h3>1. Install GitHub Desktop</h3>
+    <p>Download and install from: <a href="https://desktop.github.com/">https://desktop.github.com/</a></p>
+    <p>GitHub Desktop gives you a visual interface instead of typing commands.</p>
+
+    <h3>2. Sign into GitHub</h3>
+    <ol>
+        <li>Open GitHub Desktop</li>
+        <li>Click <strong>File</strong> &gt; <strong>Options</strong> (or <strong>GitHub Desktop</strong> &gt; <strong>Preferences</strong> on Mac)</li>
+        <li>Click <strong>Sign in</strong> and log into your GitHub account</li>
+        <li>If you don't have an account, create one at <a href="https://github.com/join">https://github.com/join</a></li>
+    </ol>
+
+    <h3>3. Clone the Project</h3>
+    <p>"Cloning" downloads a copy of the project to your computer.</p>
+    <ol>
+        <li>In GitHub Desktop, click <strong>File</strong> &gt; <strong>Clone Repository</strong></li>
+        <li>Click the <strong>URL</strong> tab</li>
+        <li>Paste this URL: <code>https://github.com/wendellj/Bulldog2026EpicAIMegaJam.git</code></li>
+        <li>Choose where to save it (suggestion: <code>C:\Bulldog\Game</code>)</li>
+        <li>Click <strong>Clone</strong></li>
+    </ol>
+    <p>You now have the project on your computer.</p>
+
+    <hr>
+
+    <h2>Daily Workflow</h2>
+
+    <h3>Before You Start Working: Pull</h3>
+    <p>Always pull before starting work. This downloads any changes your teammates made.</p>
+
+    <div class="step-box">
+        <ol>
+            <li>Open GitHub Desktop</li>
+            <li>Make sure <strong>Bulldog2026EpicAIMegaJam</strong> is selected in the top-left</li>
+            <li>Click <strong>Fetch origin</strong> (top right)</li>
+            <li>If it changes to <strong>Pull origin</strong>, click it again</li>
+        </ol>
+        <p>You're now up to date.</p>
+    </div>
+
+    <h3>After You Finish Working: Commit and Push</h3>
+    <p>When you've created or changed files, you need to commit (save a snapshot) and push (upload to GitHub).</p>
+
+    <div class="step-box">
+        <ol>
+            <li>Open GitHub Desktop</li>
+            <li>On the left side, you'll see a list of changed files</li>
+            <li>Check the boxes next to files you want to include</li>
+            <li>At the bottom left, type a short description of what you did:
+                <ul>
+                    <li><span class="good">Good:</span> "Add character concept sketches"</li>
+                    <li><span class="good">Good:</span> "Update environment textures"</li>
+                    <li><span class="bad">Bad:</span> "stuff" or "changes"</li>
+                </ul>
+            </li>
+            <li>Click <strong>Commit to master</strong></li>
+            <li>Click <strong>Push origin</strong> (top right)</li>
+        </ol>
+        <p>Your files are now on GitHub for everyone to see.</p>
+    </div>
+
+    <hr>
+
+    <h2>Where to Put Your Files</h2>
+
+    <pre><code>C:\Bulldog\Game\Content\
+├── Art\
+│   ├── Characters\      ← character art, concepts
+│   ├── Environment\     ← backgrounds, props
+│   ├── UI\              ← menus, icons, HUD elements
+│   └── Textures\        ← texture files
+└── Audio\               ← if you're also doing audio</code></pre>
+
+    <p>Create subfolders as needed. Keep things organized.</p>
+
+    <h3>File Formats</h3>
+    <table>
+        <tr>
+            <th>Type</th>
+            <th>Recommended Format</th>
+        </tr>
+        <tr>
+            <td>Textures</td>
+            <td>PNG (with transparency) or TGA</td>
+        </tr>
+        <tr>
+            <td>3D Models</td>
+            <td>FBX</td>
+        </tr>
+        <tr>
+            <td>Concepts/Reference</td>
+            <td>PNG or JPG</td>
+        </tr>
+        <tr>
+            <td>Audio</td>
+            <td>WAV (we'll compress later)</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Common Situations</h2>
+
+    <h3>"I see other people's changes but mine aren't showing"</h3>
+    <p>You committed but forgot to push. Click <strong>Push origin</strong>.</p>
+
+    <h3>"It says I have conflicts"</h3>
+    <div class="warning-box">
+        <p>This happens when you and someone else changed the same file. Don't panic.</p>
+        <ol>
+            <li>Ask in Discord for help</li>
+            <li>Wendell or another programmer can help resolve it</li>
+        </ol>
+        <p>For art files, the fix is usually: keep your version or keep theirs. We'll figure out which.</p>
+    </div>
+
+    <h3>"I accidentally deleted something"</h3>
+    <p>Git remembers everything. Right-click the file in GitHub Desktop and look for <strong>Discard changes</strong> to restore it. If you already committed the deletion, ask for help in Discord.</p>
+
+    <h3>"I want to undo my last commit"</h3>
+    <p>In GitHub Desktop: <strong>Repository</strong> &gt; <strong>Undo</strong> (only works if you haven't pushed yet)</p>
+
+    <h3>"I made a mess and want to start fresh"</h3>
+    <p>Delete your local folder and clone again. Your old work is gone locally, but anything you pushed is safe on GitHub.</p>
+
+    <hr>
+
+    <h2>Quick Reference</h2>
+    <table>
+        <tr>
+            <th>Task</th>
+            <th>How</th>
+        </tr>
+        <tr>
+            <td>Get latest changes</td>
+            <td><strong>Fetch origin</strong>, then <strong>Pull origin</strong> if available</td>
+        </tr>
+        <tr>
+            <td>Save your work</td>
+            <td>Check files, write description, <strong>Commit</strong>, then <strong>Push</strong></td>
+        </tr>
+        <tr>
+            <td>See what changed</td>
+            <td>Look at the <strong>Changes</strong> tab in GitHub Desktop</td>
+        </tr>
+        <tr>
+            <td>See project history</td>
+            <td>Click <strong>History</strong> tab in GitHub Desktop</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Tips</h2>
+
+    <div class="tip-box">
+        <ul>
+            <li><strong>Pull before you start, push when you're done.</strong> Make this a habit.</li>
+            <li><strong>Commit often.</strong> Small commits are easier to undo than big ones.</li>
+            <li><strong>Write clear commit messages.</strong> Future you will thank present you.</li>
+            <li><strong>Don't commit Unreal's intermediate files.</strong> The <code>.gitignore</code> file handles this automatically, but if you see thousands of files to commit, something's wrong. Ask for help.</li>
+        </ul>
+    </div>
+
+    <hr>
+
+    <h2>Getting Help</h2>
+    <ul>
+        <li><strong>Git confusion</strong>: Ask in #programming on Discord</li>
+        <li><strong>GitHub account issues</strong>: <a href="https://docs.github.com/en/get-started">https://docs.github.com/en/get-started</a></li>
+    </ul>
+
+</body>
+</html>
