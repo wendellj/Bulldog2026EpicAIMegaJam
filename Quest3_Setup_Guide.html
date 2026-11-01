@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quest 3 Setup Guide - Bulldog MegaJam</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: #1a1a2e;
+            color: #eaeaea;
+        }
+        h1 {
+            color: #00d4ff;
+            border-bottom: 3px solid #00d4ff;
+            padding-bottom: 0.5rem;
+        }
+        h2 {
+            color: #ff6b6b;
+            margin-top: 2.5rem;
+            border-bottom: 1px solid #444;
+            padding-bottom: 0.3rem;
+        }
+        h3 {
+            color: #ffd93d;
+            margin-top: 1.5rem;
+        }
+        a {
+            color: #00d4ff;
+        }
+        code {
+            background: #2d2d44;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-family: "Consolas", "Monaco", monospace;
+            font-size: 0.9em;
+        }
+        pre {
+            background: #2d2d44;
+            padding: 1rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            border-left: 4px solid #00d4ff;
+        }
+        pre code {
+            background: none;
+            padding: 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            border: 1px solid #444;
+            padding: 0.75rem;
+            text-align: left;
+        }
+        th {
+            background: #2d2d44;
+            color: #00d4ff;
+        }
+        tr:nth-child(even) {
+            background: #1f1f35;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid #444;
+            margin: 2rem 0;
+        }
+        ol, ul {
+            padding-left: 1.5rem;
+        }
+        li {
+            margin: 0.5rem 0;
+        }
+        strong {
+            color: #ffd93d;
+        }
+        .method-box {
+            background: #2d2d44;
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            margin: 1rem 0;
+            border-left: 4px solid #6bcb77;
+        }
+        .warning {
+            background: #3d2d2d;
+            border-left-color: #ff6b6b;
+        }
+        .intro {
+            font-size: 1.1em;
+            color: #b8b8b8;
+        }
+    </style>
+</head>
+<body>
+    <h1>Quest 3 Setup Guide for Bulldog MegaJam</h1>
+
+    <p class="intro">This guide covers two ways to run the game on Quest 3:</p>
+
+    <ol>
+        <li><strong>VR Preview</strong> (easy, fast iteration, requires PC tethered)</li>
+        <li><strong>Standalone APK</strong> (harder, runs without PC)</li>
+    </ol>
+
+    <p>Most of the time you'll use VR Preview. Only build APKs when testing standalone or preparing for submission.</p>
+
+    <hr>
+
+    <h2>Prerequisites (One-Time Setup)</h2>
+
+    <h3>On Your PC</h3>
+    <ol>
+        <li>Install <strong>Meta Quest Link</strong> app from <a href="https://www.meta.com/quest/setup/">https://www.meta.com/quest/setup/</a></li>
+        <li>Open Meta Quest Link app and sign in with your Meta account</li>
+        <li>Keep it running in the background when doing VR work</li>
+    </ol>
+
+    <h3>On Your Quest 3</h3>
+    <ol>
+        <li>Put on headset</li>
+        <li>Go to <strong>Settings</strong> (gear icon in quick settings)</li>
+        <li>Select <strong>System</strong> &gt; <strong>Quest Link</strong></li>
+        <li>Toggle <strong>Quest Link</strong> to ON</li>
+        <li>For wireless: also toggle <strong>Air Link</strong> to ON</li>
+    </ol>
+
+    <h3>Enable Developer Mode (Required for APK installs)</h3>
+    <ol>
+        <li>On your phone, install the <strong>Meta Horizon</strong> app</li>
+        <li>Sign in with same Meta account as your headset</li>
+        <li>Go to <strong>Menu</strong> &gt; <strong>Devices</strong> &gt; select your Quest 3</li>
+        <li>Tap <strong>Headset Settings</strong> &gt; <strong>Developer Mode</strong></li>
+        <li>Toggle Developer Mode ON</li>
+        <li>Restart your Quest 3</li>
+    </ol>
+
+    <hr>
+
+    <h2>Method 1: VR Preview (Recommended for Daily Work)</h2>
+
+    <p>This runs the game directly from Unreal on your PC, streamed to your headset. No building required.</p>
+
+    <h3>Connect Your Quest 3</h3>
+
+    <div class="method-box">
+        <strong>Option A: USB Cable (most reliable)</strong>
+        <ol>
+            <li>Plug Quest 3 into PC with USB-C cable</li>
+            <li>Put on headset, accept "Allow USB debugging" prompt</li>
+            <li>Accept "Enable Quest Link" prompt</li>
+            <li>You should see your PC desktop in VR</li>
+        </ol>
+    </div>
+
+    <div class="method-box">
+        <strong>Option B: Air Link (wireless)</strong>
+        <ol>
+            <li>Quest 3 and PC must be on same WiFi network (5GHz recommended)</li>
+            <li>PC should be wired to router if possible</li>
+            <li>In headset: Settings &gt; System &gt; Quest Link &gt; Launch Air Link</li>
+            <li>Select your PC from the list</li>
+            <li>Click Pair, then Launch</li>
+        </ol>
+    </div>
+
+    <h3>Run VR Preview in Unreal</h3>
+    <ol>
+        <li>Open the project: <code>C:\Bulldog\Game\BulldogMegaJam.uproject</code></li>
+        <li>Wait for shaders to compile (first time takes a while)</li>
+        <li>Look at the toolbar near the top. Find the green <strong>Play</strong> button</li>
+        <li>Click the small <strong>three dots (⋮)</strong> next to the Play button</li>
+        <li>In the dropdown, find <strong>Active Play Mode</strong> and select <strong>VR Preview</strong></li>
+        <li>Now click the Play button</li>
+        <li>Put on your headset. The game should appear</li>
+    </ol>
+
+    <p>To stop: press <strong>Escape</strong> on your keyboard or click Stop in Unreal.</p>
+
+    <h3>Troubleshooting VR Preview</h3>
+    <table>
+        <tr>
+            <th>Problem</th>
+            <th>Solution</th>
+        </tr>
+        <tr>
+            <td>"VR Preview" option is grayed out</td>
+            <td>Install OpenXR plugin: Edit &gt; Plugins &gt; search "OpenXR" &gt; enable it &gt; restart Unreal</td>
+        </tr>
+        <tr>
+            <td>Game appears on monitor but not in headset</td>
+            <td>Make sure Quest Link is active (you should see PC desktop in headset)</td>
+        </tr>
+        <tr>
+            <td>Black screen in headset</td>
+            <td>Check Meta Quest Link app on PC shows "Connected"</td>
+        </tr>
+        <tr>
+            <td>Laggy or stuttering</td>
+            <td>Use USB cable instead of Air Link, or move closer to router</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Method 2: Build and Deploy APK (Standalone)</h2>
+
+    <p>This creates an app that runs on Quest 3 without a PC. Takes longer but needed for final testing.</p>
+
+    <h3>First Time: Verify Android SDK</h3>
+    <p>Open a command prompt and run:</p>
+    <pre><code>cd C:\Bulldog
+cook_android.bat</code></pre>
+    <p>If it fails with SDK errors, talk to Wendell. The SDK setup is already configured but may need adjustment for your machine.</p>
+
+    <h3>Build Steps</h3>
+    <p>Open a command prompt (Win+R, type <code>cmd</code>, press Enter).</p>
+
+    <div class="method-box">
+        <strong>Step 1: Cook the content</strong>
+        <pre><code>cd C:\Bulldog
+cook_android.bat</code></pre>
+        <p>This packages all the game content.</p>
+    </div>
+
+    <div class="method-box">
+        <strong>Step 2: Build the APK</strong>
+        <pre><code>build_apk_nocache.bat</code></pre>
+        <p>This compiles the actual Android app.</p>
+    </div>
+
+    <div class="method-box">
+        <strong>Step 3: Create the OBB</strong> (contains game data)
+        <pre><code>powershell -ExecutionPolicy Bypass -File create_obb.ps1</code></pre>
+    </div>
+
+    <div class="method-box">
+        <strong>Step 4: Deploy to Quest</strong>
+        <ol>
+            <li>Connect Quest 3 via USB</li>
+            <li>Put on headset and accept any permission prompts</li>
+            <li>Take off headset</li>
+            <li>Run:</li>
+        </ol>
+        <pre><code>deploy_quest.bat</code></pre>
+    </div>
+
+    <div class="method-box">
+        <strong>Step 5: Launch the game</strong>
+        <ol>
+            <li>Put on Quest 3</li>
+            <li>Go to <strong>Apps</strong> (grid icon in menu bar)</li>
+            <li>In top-right dropdown, select <strong>Unknown Sources</strong></li>
+            <li>Find and launch <strong>BulldogMegaJam</strong></li>
+        </ol>
+    </div>
+
+    <h3>Quick Update (Content Only)</h3>
+    <p>If you only changed content (not code), you can skip the APK rebuild:</p>
+    <pre><code>cook_android.bat
+push_paks.bat</code></pre>
+    <p>Then relaunch from Unknown Sources.</p>
+
+    <hr>
+
+    <h2>Taking Screenshots from Quest</h2>
+    <p>To capture what you see in the headset:</p>
+    <pre><code>cd C:\Bulldog
+screenshot_quest.bat</code></pre>
+    <p>Screenshot saves to <code>C:\Bulldog\screenshots\</code></p>
+
+    <hr>
+
+    <h2>Viewing Logs (Debugging)</h2>
+    <p>If the app crashes or behaves strangely:</p>
+    <pre><code>cd C:\Bulldog
+logcat.bat</code></pre>
+    <p>This shows recent log messages. Share these with Wendell if something's broken.</p>
+
+    <hr>
+
+    <h2>Quick Reference</h2>
+    <table>
+        <tr>
+            <th>Task</th>
+            <th>Command or Action</th>
+        </tr>
+        <tr>
+            <td>Fast iteration (daily work)</td>
+            <td>VR Preview via Quest Link</td>
+        </tr>
+        <tr>
+            <td>Test standalone build</td>
+            <td>Run all 4 build steps above</td>
+        </tr>
+        <tr>
+            <td>Content-only update</td>
+            <td><code>cook_android.bat</code> then <code>push_paks.bat</code></td>
+        </tr>
+        <tr>
+            <td>Take screenshot</td>
+            <td><code>screenshot_quest.bat</code></td>
+        </tr>
+        <tr>
+            <td>Debug crashes</td>
+            <td><code>logcat.bat</code></td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Getting Help</h2>
+    <ul>
+        <li><strong>Unreal issues</strong>: Ask in #programming on Discord</li>
+        <li><strong>Quest connection issues</strong>: Check Meta's support site or ask Wendell</li>
+        <li><strong>Build script errors</strong>: Copy the error message and post in #programming</li>
+    </ul>
+
+</body>
+</html>
