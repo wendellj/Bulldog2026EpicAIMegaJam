@@ -44,3 +44,86 @@ Desktop.ini
 # Large binary files that should use Git LFS
 # *.uasset filter=lfs diff=lfs merge=lfs -text
 # *.umap filter=lfs diff=lfs merge=lfs -text
+
+# === BULLDOG MEGAJAM SPECIFIC ===
+
+# Python debug/test scripts (temporary development tools)
+Game/check_*.py
+Game/fix_*.py
+Game/verify_*.py
+Game/debug_*.py
+Game/setup_*.py
+Game/create_*.py
+Game/spawn_*.py
+Game/list_*.py
+Game/add_*.py
+Game/get_*.py
+Game/set_*.py
+Game/find_*.py
+Game/search_*.py
+Game/make_*.py
+Game/adjust_*.py
+Game/reduce_*.py
+Game/enable_*.py
+Game/disable_*.py
+Game/turn_*.py
+Game/switch_*.py
+Game/undo_*.py
+Game/refresh_*.py
+Game/rebuild_*.py
+Game/delete_*.py
+Game/save_*.py
+Game/force_*.py
+Game/take_*.py
+Game/cmd_*.py
+Game/diagnose_*.py
+Game/color_*.py
+Game/boost_*.py
+Game/darken_*.py
+Game/clear_*.py
+Game/test_*.py
+
+# Keep cleanup script (needed)
+!Game/cleanup_level.py
+
+# Screenshots and test outputs
+Game/*.png
+Game/*.jpg
+Game/*.jpeg
+Game/screenshot*.txt
+Game/editor_screenshot*.png
+Game/quest_screen*.png
+
+# Build scripts (generated/temporary)
+Game/BuildAndroid.bat
+Game/RunGradle.bat
+Game/UpdateAndroidSDK.bat
+Game/accept_licenses.bat
+
+# Quest logs and temp files
+Game/*_logs.txt
+quest_logs.txt
+C*quest_logs.txt
+nul
+
+# Python cache
+Game/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Android build artifacts (from Unity SDK workaround)
+*.apk
+*.obb
+*.aab
+
+# Batch files (except deployment scripts in root)
+Game/*.bat
+!Game/cleanup_level.bat
+
+# Email drafts and social media posts (move to /docs)
+EMAIL_DRAFT_*.txt
+SOCIAL_POSTS_*.txt
+
+# Local MCP config overrides
+.claude/projects/*/mcp_overrides.json
