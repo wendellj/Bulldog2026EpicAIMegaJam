@@ -2,6 +2,17 @@
   "mcpServers": {
     "unreal": {
       "url": "http://127.0.0.1:8000/mcp"
+    },
+    "unreal-mcpython": {
+      "command": "C:\\Users\\wendell\\.local\\bin\\uv.exe",
+      "args": [
+        "--directory",
+        "C:/Bulldog/Game/mcp-server",
+        "run",
+        "--python",
+        "3.11",
+        "src/unreal_mcp/main.py"
+      ]
     }
   }
 }

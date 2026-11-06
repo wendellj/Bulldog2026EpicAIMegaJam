@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.unrealengine.com)",
+      "WebSearch",
+      "WebFetch(domain:itch.io)",
+      "WebFetch(domain:developers.meta.com)",
+      "WebFetch(domain:www.bellevuecollege.edu)",
+      "WebFetch(domain:epicgames.box.com)",
+      "WebFetch(domain:epicgames.ent.box.com)",
+      "mcp__plugin_meta-vr_metavr__vr_skill_search",
+      "mcp__plugin_meta-vr_metavr__vr_docs_search",
+      "mcp__plugin_meta-vr_metavr__vr_docs_get_page",
+      "mcp__plugin_meta-vr_metavr__vr_skill_load",
+      "WebFetch(domain:www.strayspark.studio)",
+      "mcp__plugin_meta-vr_metavr__metavr_software_paths",
+      "WebFetch(domain:www.epicgames.com)",
+      "WebFetch(domain:www.instagram.com)",
+      "WebFetch(domain:youtu.be)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:oercommons.org)",
+      "WebFetch(domain:www.425business.com)",
+      "WebFetch(domain:er.educause.edu)",
+      "WebFetch(domain:files.eric.ed.gov)",
+      "WebFetch(domain:www.shapesxr.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(python:*)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.fab.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:forums.unrealengine.com)",
+      "WebFetch(domain:communityforums.atmeta.com)"
+    ]
+  }
+}
