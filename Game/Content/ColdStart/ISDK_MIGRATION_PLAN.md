@@ -12,7 +12,23 @@ Hands appear "too far forward" when viewed in VR. Debug logging confirmed:
 - But the rendered hand mesh appears offset from where it should be
 - Quest native system icons (hand menu) appear at correct palm position
 
-**Root cause:** Using raw `OculusXRHandComponent` instead of Meta's recommended Interaction SDK (ISDK) components.
+**Suspected root cause:** Using raw `OculusXRHandComponent` instead of Meta's recommended Interaction SDK (ISDK) components.
+
+**CAVEAT (Adversarial Review 2026-11-08):** This root cause is ASSUMED, not proven. Per `unreal-hand-tracking.md` (2026-04-14), OculusXRHandComponent "must be a child of a UMotionControllerComponent" (which we have) and "handles loading the mesh/skeleton as well as updating the bones." Our hierarchy matches the documented pattern. ISDK is recommended for standardized INTERACTIONS (poke, grab, ray), not explicitly for fixing hand positioning. Alternative investigation steps added below.
+
+---
+
+## Alternative Investigation (Before ISDK Migration)
+
+Before committing to ISDK migration, verify OculusXRHandComponent configuration:
+
+1. **SkeletonType property**: Must be `HandLeft` for left hand, `HandRight` for right hand
+2. **Transform offsets**: Check RelativeLocation/RelativeRotation on OculusXRHandComponent
+3. **UpdateRootPose option**: May need to be enabled (per unreal-hand-tracking.md)
+4. **UpdateRootScale option**: Check if enabled
+5. **SetPointerPoseRoot option**: Per docs, this affects hand positioning
+
+If these settings are correct and the offset persists, proceed with ISDK migration.
 
 ---
 
