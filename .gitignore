@@ -239,3 +239,103 @@ StartForgeMind.bat
 # MetaXR plugins (download from Epic/Meta marketplace - too large for git)
 Game/Plugins/MetaXR/
 Game/Plugins/MetaXRInteraction/
+
+# === TEMPORARY STATUS/IMPLEMENTATION DOCS ===
+
+# Session summaries and handoff docs
+**/*_HANDOFF.md
+**/*_HANDOFF_*.md
+**/SESSION_*.md
+**/QUICKSTART_*.txt
+**/QUICKSTART_*.sh
+
+# Status and implementation tracking (use GitHub issues/wiki instead)
+**/*_STATUS.md
+**/*STATUS*.md
+**/*_IMPLEMENTATION.md
+**/IMPLEMENTATION_*.md
+**/*_INTEGRATION.md
+**/*_MANIFEST.md
+**/*_ISSUES_FOR_*.md
+**/FINAL_STATUS.md
+**/METRICS_AUTOMATION_STATUS.txt
+
+# Manual step guides (temporary, should be in proper docs)
+**/*_MANUAL_STEPS.md
+**/MANUAL_*.md
+CROUCH_JUMP_TRACKER_MANUAL_STEPS.md
+
+# Design docs in Content folders (keep in Game/Docs/ instead)
+**/*_DESIGN.md
+**/*_DESIGN.html
+
+# GenOrca/PR tracking docs (temporary)
+**/GENORCA_*.md
+**/*_PR_*.md
+
+# Social media drafts
+**/LINKEDIN_POSTS.md
+**/*SOCIAL_POSTS_*.md
+
+# General notes and prompts
+**/*_PROMPTS.txt
+**/CLAUDE_MD_ADDITION.txt
+**/READ_ME_FIRST.txt
+**/README.txt
+
+# === PYTHON SCRIPTS IN CONTENT FOLDERS ===
+
+# CarHop Python scripts (should be in Build/Scripts/)
+Game/Content/DirectorsCut/CarHop/*.py
+Game/Content/DirectorsCut/CarHop/__pycache__/
+
+# Any Python in Content folders
+Game/Content/Python/
+Game/Content/**/*.py
+Game/Content/**/__pycache__/
+
+# Root-level Python scripts (temporary automation)
+Game/assign_*.py
+Game/reconnect_*.py
+Game/blueprint_*.py
+Game/superjump_*.py
+
+# === VIDEO ASSEMBLY ARTIFACTS ===
+
+# Video essay assembly outputs
+**/assemble_video_essay.py
+**/final_video_essay.mp4
+**/merged_audio.mp3
+**/merged_video.mp4
+**/normalized_*.mp3
+**/segment_*.mp4
+**/seg*_*.mp4
+**/silence.mp3
+**/*_concat.txt
+
+# Canvas/Rodin helper scripts
+**/canvas_*.js
+**/rodin_helper.js
+**/generate_cars_rodin.js
+canvas_output/
+**/carhop_graph.json
+
+# === OTHER PROJECT ARTIFACTS ===
+
+# Node.js (not part of Unreal project)
+node_modules/
+package.json
+package-lock.json
+
+# GenOrca repo clone (external tool)
+genorca-repo/
+
+# NSF deliverables (separate from game jam)
+NSF_Deliverables/
+
+# Project zips
+*.zip
+
+# Build scripts at root (keep only in Game/)
+build_*.bat
+update_*.ps1
